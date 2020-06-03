@@ -6,6 +6,10 @@
   https://luncheon.github.io/mdis/
 - Font Awesome  
   https://fontawesome.com/
+- Icons8 Line Awesome  
+  https://github.com/icons8/line-awesome  
+- Icons8 Flat Color Icons  
+  https://github.com/icons8/flat-color-icons  
 - Iconicons  
   https://ionicons.com/
 - Feather  
@@ -20,8 +24,6 @@
   https://ikonate.com/
 - Vue Unicons  
   https://antonreshetov.github.io/vue-unicons/
-- Icons8 Flat Color Icons  
-  https://github.com/icons8/flat-color-icons  
 
 ## Brand Icons
 
