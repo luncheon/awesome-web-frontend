@@ -25,10 +25,12 @@
 - Vue Unicons  
   https://antonreshetov.github.io/vue-unicons/
 
+
 ## Brand Icons
 
-- Simple Icons
+- Simple Icons  
   https://simpleicons.org/  
+
 
 ## Tooltip
 
@@ -38,3 +40,11 @@
   https://chrisdavies.github.io/tlite/
 - Hint.css  
   https://kushagra.dev/lab/hint/
+- Tootik  
+  https://eliortabeka.github.io/tootik/
+
+
+## Toast
+
+- Toastify  
+  https://apvarun.github.io/toastify-js/
