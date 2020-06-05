@@ -1,6 +1,6 @@
 # Awesome!
 
-A curated list of dependency-free open source libraries.
+A curated list of open source libraries.
 
 ## Icons
 
@@ -28,7 +28,7 @@ A curated list of dependency-free open source libraries.
   https://antonreshetov.github.io/vue-unicons/
 
 
-## Brand Icons
+### Brand Icons
 
 - Simple Icons  
   https://simpleicons.org/  
@@ -36,16 +36,14 @@ A curated list of dependency-free open source libraries.
 
 ## Tooltip
 
-<!--
-- Tippy.js  
-  https://atomiks.github.io/tippyjs/
--->
 - Tlite  
   https://chrisdavies.github.io/tlite/
 - Hint.css  
   https://kushagra.dev/lab/hint/
 - Tootik  
   https://eliortabeka.github.io/tootik/
+- Tippy.js  
+  https://atomiks.github.io/tippyjs/
 
 
 ## Toast
@@ -62,3 +60,24 @@ A curated list of dependency-free open source libraries.
   https://future-architect.github.io/cheetah-grid/
 - Clusterize.js (virtual scroll library)  
   https://clusterize.js.org/
+
+
+## Chart
+
+- Chart.js  
+  https://www.chartjs.org/
+- APEXCHARTS.JS  
+  https://apexcharts.com/
+- C3.js (requires D3.js)  
+  https://c3js.org/
+- morris.js (requires jQuery)  
+  https://morrisjs.github.io/morris.js/
+- Flot (requires jQuery)  
+  https://www.flotcharts.org/
+
+### Mini Chart
+
+- Peity (requires jQuery)  
+  http://benpickles.github.io/peity/
+- Sparklines (requires jQuery)  
+  https://omnipotent.net/jquery.sparkline/
