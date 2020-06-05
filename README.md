@@ -1,5 +1,7 @@
 # Awesome!
 
+A curated list of dependency-free open source libraries.
+
 ## Icons
 
 - Material Design Icons  
@@ -48,3 +50,13 @@
 
 - Toastify  
   https://apvarun.github.io/toastify-js/
+
+
+## Data Table
+
+- Grid.js  
+  https://gridjs.io/
+- Cheetah Grid (rendering the table on canvas)  
+  https://future-architect.github.io/cheetah-grid/
+- Clusterize.js (virtual scroll library)  
+  https://clusterize.js.org/
