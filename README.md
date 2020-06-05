@@ -36,8 +36,10 @@ A curated list of dependency-free open source libraries.
 
 ## Tooltip
 
+<!--
 - Tippy.js  
   https://atomiks.github.io/tippyjs/
+-->
 - Tlite  
   https://chrisdavies.github.io/tlite/
 - Hint.css  
