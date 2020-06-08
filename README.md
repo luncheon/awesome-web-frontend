@@ -2,9 +2,7 @@
 
 My curated list of frontend libraries.
 
-## User Interface
-
-### Icons
+## Icons
 
 - Material Design Icons  
   https://luncheon.github.io/mdis/
@@ -29,12 +27,13 @@ My curated list of frontend libraries.
 - Vue Unicons  
   https://antonreshetov.github.io/vue-unicons/
 
-
-#### Brand Icons
+### Brand Icons
 
 - Simple Icons  
   https://simpleicons.org/  
 
+
+## Micro UI Parts
 
 ### Tooltip
 
@@ -47,12 +46,20 @@ My curated list of frontend libraries.
 - Tippy.js  
   https://atomiks.github.io/tippyjs/
 
-
 ### Toast
 
 - Toastify  
   https://apvarun.github.io/toastify-js/
 
+### Progress Indicator
+
+- Pace.js  
+  https://github.hubspot.com/pace/docs/welcome/
+- Rsup Progress  
+  https://skt-t1-byungi.github.io/rsup-progress/
+
+
+## Data Visualization
 
 ### Data Table
 
@@ -72,6 +79,8 @@ My curated list of frontend libraries.
   https://apexcharts.com/
 - C3.js (requires D3.js)  
   https://c3js.org/
+- billboard.js (fork of C3.js)  
+  https://naver.github.io/billboard.js/
 - morris.js (requires jQuery)  
   https://morrisjs.github.io/morris.js/
 - Flot (requires jQuery)  
@@ -82,7 +91,7 @@ My curated list of frontend libraries.
   https://github.com/jwilber/roughViz
 
 
-#### Mini Chart
+### Mini Chart
 
 - Peity (requires jQuery)  
   http://benpickles.github.io/peity/
@@ -90,9 +99,17 @@ My curated list of frontend libraries.
   https://omnipotent.net/jquery.sparkline/
 
 
-### Progress Indicator
+## CSS in JS
 
-- Pace.js  
-  https://github.hubspot.com/pace/docs/welcome/
-- Rsup Progress  
-  https://skt-t1-byungi.github.io/rsup-progress/
+- Linaria  
+  https://github.com/callstack/linaria
+- Compiled  
+  https://compiledcssinjs.com/
+
+
+## Memoization
+
+- memoize-one  
+  https://github.com/alexreardon/memoize-one/
+- Reselect  
+  https://github.com/reduxjs/reselect
