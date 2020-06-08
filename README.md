@@ -1,8 +1,10 @@
-# Awesome!
+# Awesome Web Frontend
 
-A curated list of open source libraries.
+My curated list of frontend libraries.
 
-## Icons
+## User Interface
+
+### Icons
 
 - Material Design Icons  
   https://luncheon.github.io/mdis/
@@ -28,13 +30,13 @@ A curated list of open source libraries.
   https://antonreshetov.github.io/vue-unicons/
 
 
-### Brand Icons
+#### Brand Icons
 
 - Simple Icons  
   https://simpleicons.org/  
 
 
-## Tooltip
+### Tooltip
 
 - Tlite  
   https://chrisdavies.github.io/tlite/
@@ -46,13 +48,13 @@ A curated list of open source libraries.
   https://atomiks.github.io/tippyjs/
 
 
-## Toast
+### Toast
 
 - Toastify  
   https://apvarun.github.io/toastify-js/
 
 
-## Data Table
+### Data Table
 
 - Grid.js  
   https://gridjs.io/
@@ -62,7 +64,7 @@ A curated list of open source libraries.
   https://clusterize.js.org/
 
 
-## Chart
+### Chart
 
 - Chart.js  
   https://www.chartjs.org/
@@ -74,10 +76,23 @@ A curated list of open source libraries.
   https://morrisjs.github.io/morris.js/
 - Flot (requires jQuery)  
   https://www.flotcharts.org/
+- Plotly  
+  https://plotly.com/javascript/
+- roughViz.js  
+  https://github.com/jwilber/roughViz
 
-### Mini Chart
+
+#### Mini Chart
 
 - Peity (requires jQuery)  
   http://benpickles.github.io/peity/
 - Sparklines (requires jQuery)  
   https://omnipotent.net/jquery.sparkline/
+
+
+### Progress Indicator
+
+- Pace.js  
+  https://github.hubspot.com/pace/docs/welcome/
+- Rsup Progress  
+  https://skt-t1-byungi.github.io/rsup-progress/
