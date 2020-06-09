@@ -22,7 +22,7 @@ My curated list of frontend libraries.
 - MobX  
   https://mobx.js.org/
 - Immer  
-  https://immerjs.github.io/immer/docs/introduction
+  https://immerjs.github.io/immer/
 
 
 ## Memoization
