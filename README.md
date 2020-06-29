@@ -41,6 +41,14 @@ My curated list of frontend libraries.
   https://compiledcssinjs.com/
 
 
+## Form
+
+### Validation
+
+- Vest  
+  https://github.com/ealush/vest
+
+
 ## UI Parts
 
 ### Tooltip
