@@ -69,6 +69,8 @@ My curated list of frontend libraries.
 
 ### Progress Indicator
 
+- topbar  
+  http://buunguyen.github.io/topbar/
 - Pace.js  
   https://github.hubspot.com/pace/docs/welcome/
 - Rsup Progress  
