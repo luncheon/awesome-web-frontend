@@ -66,6 +66,8 @@ My curated list of frontend libraries.
 
 - Toastify  
   https://apvarun.github.io/toastify-js/
+- toastedjs  
+  https://github.com/shakee93/toastedjs/
 
 ### Progress Indicator
 
