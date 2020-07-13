@@ -59,6 +59,8 @@ My curated list of frontend libraries.
   https://kushagra.dev/lab/hint/
 - Tootik  
   https://eliortabeka.github.io/tootik/
+- html5tooltips.js  
+  http://ytiurin.github.io/html5tooltipsjs/
 - Tippy.js  
   https://atomiks.github.io/tippyjs/
 
