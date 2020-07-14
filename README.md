@@ -5,6 +5,8 @@ My curated list of frontend libraries.
 
 ## DOM Renderer
 
+- Solid  
+  https://github.com/ryansolid/solid
 - lit-html  
   https://lit-html.polymer-project.org/
 - Preact  
