@@ -147,6 +147,8 @@ My curated list of frontend libraries.
   https://ikonate.com/
 - Vue Unicons  
   https://antonreshetov.github.io/vue-unicons/
+- Tabler Icons  
+  https://tablericons.com/
 
 ### Brand Icons
 
