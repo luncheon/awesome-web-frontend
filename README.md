@@ -55,10 +55,12 @@ My curated list of frontend libraries.
 
 ### Tooltip
 
-- Tlite  
-  https://chrisdavies.github.io/tlite/
+- Balloon.css  
+  https://kazzkiq.github.io/balloon.css/
 - Hint.css  
   https://kushagra.dev/lab/hint/
+- Tlite  
+  https://chrisdavies.github.io/tlite/
 - Tootik  
   https://eliortabeka.github.io/tootik/
 - html5tooltips.js  
