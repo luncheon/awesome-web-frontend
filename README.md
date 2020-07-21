@@ -128,7 +128,7 @@ My curated list of frontend libraries.
 ## Icons
 
 - Material Design Icons  
-  https://luncheon.github.io/mdis/
+  https://materialdesignicons.com/
 - Font Awesome  
   https://fontawesome.com/
 - Icons8 Line Awesome  
