@@ -156,3 +156,11 @@ My curated list of frontend libraries.
 
 - Simple Icons  
   https://simpleicons.org/  
+
+
+## Presentation
+
+- reveal.js  
+  https://revealjs.com/
+- Bespoke.js  
+  http://markdalgleish.com/projects/bespoke.js/
