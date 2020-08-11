@@ -39,6 +39,8 @@ My curated list of frontend libraries.
 
 - Linaria  
   https://github.com/callstack/linaria
+- style9  
+  https://github.com/johanholmerin/style9
 - Compiled  
   https://compiledcssinjs.com/
 
