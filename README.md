@@ -84,8 +84,23 @@ My curated list of frontend libraries.
 - Rsup Progress  
   https://skt-t1-byungi.github.io/rsup-progress/
 
+### Modal
+
+- html-native-modal  
+  https://github.com/luncheon/html-native-modal
+
+### Tabs
+
+- Tabby  
+  https://github.com/cferdinandi/tabby
+
 
 ## Data Visualization
+
+### Canvas
+
+- Fabric.js  
+  http://fabricjs.com/
 
 ### Data Table
 
@@ -164,3 +179,9 @@ My curated list of frontend libraries.
   https://revealjs.com/
 - Bespoke.js  
   http://markdalgleish.com/projects/bespoke.js/
+
+
+## Others
+
+- GPU.js  
+  https://github.com/gpujs/gpu.js
