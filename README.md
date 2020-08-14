@@ -59,16 +59,26 @@ My curated list of frontend libraries.
 
 - Balloon.css  
   https://kazzkiq.github.io/balloon.css/
+  - CSS カスタムプロパティが利用されている（そのままでは IE 11 で動かなそう）。
 - Hint.css  
   https://kushagra.dev/lab/hint/
+  - `[class*="hint--"]` のようなセレクターが使われている。古いベンダープレフィックス付きの `-moz-transform` や `-moz-transition` が使われている。
 - Tlite  
   https://chrisdavies.github.io/tlite/
-- Tootik  
-  https://eliortabeka.github.io/tootik/
+  - `title` 属性を見てくれるので既存コードへの適用がラク。
 - html5tooltips.js  
   http://ytiurin.github.io/html5tooltipsjs/
-- Tippy.js  
-  https://atomiks.github.io/tippyjs/
+  - 表示アニメーションのプリセットがいくつかあって楽しい（ただし実際のプロダクトではツールチップが目を引いちゃダメ）。
+- ~~Tootik~~  
+  ~~https://eliortabeka.github.io/tootik/~~
+  - ツールチップ本体表示後、遅れて吹き出しの尻尾が出てくる。この挙動が気になるので使えない。
+- ~~Microtip~~  
+  ~~https://github.com/ghosh/microtip~~
+  - 対象要素に `role="tooltip"` を付与しなければならない奇妙仕様。
+- ~~Tippy.js~~  
+  ~~https://atomiks.github.io/tippyjs/~~
+  - Popper ベース。重い。
+
 
 ### Toast
 
@@ -81,15 +91,27 @@ My curated list of frontend libraries.
 
 - topbar  
   http://buunguyen.github.io/topbar/
-- Pace.js  
-  https://github.hubspot.com/pace/docs/welcome/
 - Rsup Progress  
   https://skt-t1-byungi.github.io/rsup-progress/
+- ~~Pace.js~~  
+  ~~https://github.hubspot.com/pace/docs/welcome/~~
+  - XHR 時代は何も考えずに使えて非常に便利だった。既知のメモリリークがある。今後メンテナンスしないと明言されている。
 
 ### Modal
 
 - html-native-modal  
   https://github.com/luncheon/html-native-modal
+- Modal Vanilla  
+  https://github.com/KaneCohen/modal-vanilla
+- ~~Micromodal.js~~  
+  ~~https://micromodal.now.sh/~~
+  - デモは良さそうだけど動かし方がよく分からなかった。
+- ~~tingle.js~~  
+  ~~https://tingle.robinparisi.com/~~
+  - 背景が全く見えなくなる。閉じるときアニメーションがない。
+- ~~A11y Dialog~~  
+  ~~http://edenspiekermann.github.io/a11y-dialog/~~
+  - マークアップが非常に煩雑。閉じるときアニメーションがない。
 
 ### Tabs
 
