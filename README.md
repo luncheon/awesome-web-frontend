@@ -119,12 +119,15 @@ My curated list of frontend libraries.
   https://github.com/cferdinandi/tabby
 
 
-## Data Visualization
-
-### Canvas
+## Canvas
 
 - Fabric.js  
   http://fabricjs.com/
+- Two.js  
+  https://two.js.org/
+
+
+## Data Visualization
 
 ### Data Table
 
