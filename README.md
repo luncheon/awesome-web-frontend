@@ -33,6 +33,7 @@ My curated list of frontend libraries.
   https://github.com/alexreardon/memoize-one/
 - Reselect  
   https://github.com/reduxjs/reselect
+  - 全状態を単一オブジェクトに詰め込んでいる場合に限り有効。
 
 
 ## CSS in JS
@@ -62,13 +63,13 @@ My curated list of frontend libraries.
   - CSS カスタムプロパティが利用されている（そのままでは IE 11 で動かなそう）。
 - Hint.css  
   https://kushagra.dev/lab/hint/
-  - `[class*="hint--"]` のようなセレクターが使われている。古いベンダープレフィックス付きの `-moz-transform` や `-moz-transition` が使われている。
+  - `[class*="hint--"]` のようなセレクターが使われている。古いベンダープレフィックス付きの `-moz-transform` や `-moz-transition` が使われていて冗長。
 - Tlite  
   https://chrisdavies.github.io/tlite/
   - `title` 属性を見てくれるので既存コードへの適用がラク。
 - html5tooltips.js  
   http://ytiurin.github.io/html5tooltipsjs/
-  - 表示アニメーションのプリセットがいくつかあって楽しい（ただし実際のプロダクトではツールチップが目を引いちゃダメ）。
+  - 表示アニメーションのプリセットがいくつかあっておもしろい（ただし実際のプロダクトではツールチップが目を引いちゃダメ）。
 - ~~Tootik~~  
   ~~https://eliortabeka.github.io/tootik/~~
   - ツールチップ本体表示後、遅れて吹き出しの尻尾が出てくる。この挙動が気になるので使えない。
@@ -85,7 +86,7 @@ My curated list of frontend libraries.
 - Toastify  
   https://apvarun.github.io/toastify-js/
 - toastedjs  
-  https://github.com/shakee93/toastedjs/
+  https://shakee93.github.io/toastedjs/
 
 ### Progress Indicator
 
