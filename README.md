@@ -119,6 +119,10 @@ My curated list of frontend libraries.
 - Tabby  
   https://github.com/cferdinandi/tabby
 
+### Carousel
+
+- Embla Carousel  
+  https://davidcetinkaya.github.io/embla-carousel/
 
 ## Canvas
 
@@ -166,6 +170,18 @@ My curated list of frontend libraries.
   http://benpickles.github.io/peity/
 - Sparklines (requires jQuery)  
   https://omnipotent.net/jquery.sparkline/
+
+
+## CSS Framework
+
+### Material Design
+
+- MUI  
+  https://www.muicss.com/
+  - （メモ） JS なしでテキストフィールドのラベルの挙動をまともにするには `.mui-textfield--float-label > label { transition: all 0.2s; }`。
+- ~~Materialize~~  
+  ~~https://materializecss.com/~~
+  - 重い。
 
 
 ## Icons
