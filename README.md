@@ -178,8 +178,6 @@ My curated list of frontend libraries.
 
 - MUI  
   https://www.muicss.com/
-  - （メモ） JS なしでテキストフィールドのラベルの挙動をまともにするには  
-    `.mui-textfield--float-label > label { transition: all 0.2s; }`。
 - ~~Materialize~~  
   ~~https://materializecss.com/~~
   - 重い。
