@@ -7,12 +7,12 @@ My curated list of frontend libraries.
 
 - Solid  
   https://github.com/ryansolid/solid
+- ~~Vidact~~  
+  ~~https://mohebifar.github.io/vidact/
 - lit-html  
   https://lit-html.polymer-project.org/
 - Preact  
   https://preactjs.com/
-- Vidact  
-  https://mohebifar.github.io/vidact/
 - incremental-dom  
   http://google.github.io/incremental-dom/
   - babel-plugin-transform-incremental-dom  
@@ -178,7 +178,8 @@ My curated list of frontend libraries.
 
 - MUI  
   https://www.muicss.com/
-  - （メモ） JS なしでテキストフィールドのラベルの挙動をまともにするには `.mui-textfield--float-label > label { transition: all 0.2s; }`。
+  - （メモ） JS なしでテキストフィールドのラベルの挙動をまともにするには  
+    `.mui-textfield--float-label > label { transition: all 0.2s; }`。
 - ~~Materialize~~  
   ~~https://materializecss.com/~~
   - 重い。
