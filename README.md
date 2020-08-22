@@ -1,230 +1,174 @@
 # Awesome Web Frontend
 
-My curated list of frontend libraries.
+自分用 Web フロントエンドライブラリメモ。
 
+## DOM 差分レンダリング
 
-## DOM Renderer
+| 名前            | リポジトリ                                | 備考                                                                                                           |
+| --------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Solid           | https://github.com/ryansolid/solid        |                                                                                                                |
+| ~~Vidact~~      | https://github.com/mohebifar/vidact       |                                                                                                                |
+| lit-html        | https://github.com/polymer/lit-html       |                                                                                                                |
+| Preact          | https://github.com/preactjs/preact        |                                                                                                                |
+| incremental-dom | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
 
-- Solid  
-  https://github.com/ryansolid/solid
-- ~~Vidact~~  
-  ~~https://mohebifar.github.io/vidact/
-- lit-html  
-  https://lit-html.polymer-project.org/
-- Preact  
-  https://preactjs.com/
-- incremental-dom  
-  http://google.github.io/incremental-dom/
-  - babel-plugin-transform-incremental-dom  
-    https://github.com/jridgewell/babel-plugin-transform-incremental-dom
+## 状態管理
 
+| 名前  | リポジトリ                       | 備考 |
+| ----- | -------------------------------- | ---- |
+| MobX  | https://github.com/mobxjs/mobx   |      |
+| Immer | https://github.com/immerjs/immer |      |
 
-## State
+## メモ化
 
-- MobX  
-  https://mobx.js.org/
-- Immer  
-  https://immerjs.github.io/immer/
-
-
-## Memoization
-
-- memoize-one  
-  https://github.com/alexreardon/memoize-one/
-- Reselect  
-  https://github.com/reduxjs/reselect
-  - 全状態を単一オブジェクトに詰め込んでいる場合に限り有効。
-
+| 名前        | リポジトリ                                  | 備考                                                     |
+| ----------- | ------------------------------------------- | -------------------------------------------------------- |
+| memoize-one | https://github.com/alexreardon/memoize-one/ |                                                          |
+| Reselect    | https://github.com/reduxjs/reselect         | 全状態を単一オブジェクトに詰め込んでいる場合に限り有効。 |
 
 ## CSS in JS
 
-- Linaria  
-  https://github.com/callstack/linaria
-- style9  
-  https://github.com/johanholmerin/style9
-- Compiled  
-  https://compiledcssinjs.com/
+| 名前     | リポジトリ                                 | 備考 |
+| -------- | ------------------------------------------ | ---- |
+| Linaria  | https://github.com/callstack/linaria       |      |
+| style9   | https://github.com/johanholmerin/style9    |      |
+| Compiled | https://github.com/atlassian-labs/compiled |      |
 
+## フォーム
 
-## Form
+### バリデーション
 
-### Validation
+| 名前 | リポジトリ                     | 備考 |
+| ---- | ------------------------------ | ---- |
+| Vest | https://github.com/ealush/vest |      |
 
-- Vest  
-  https://github.com/ealush/vest
+## UI 要素
 
+### ツールチップ
 
-## UI Parts
+| 名前             | リポジトリ                                 | 備考                                                                                                                                              |
+| ---------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Balloon.css      | https://github.com/kazzkiq/balloon.css     | CSS カスタムプロパティが利用されている（そのままでは IE 11 で動かなそう）。                                                                       |
+| Hint.css         | https://github.com/chinchang/hint.css      | `[class*="hint--"]` のようなセレクターが使われている。古いベンダープレフィックス付きの `-moz-transform` や `-moz-transition` が使われていて冗長。 |
+| Tlite            | https://github.com/chrisdavies/tlite       | `title` 属性を見てくれるので既存コードへの適用がラク。                                                                                            |
+| html5tooltips.js | https://github.com/ytiurin/html5tooltipsjs | 表示アニメーションのプリセットがいくつかあっておもしろい（ただし実際のプロダクトではツールチップが目を引いちゃダメ）。                            |
+| ~~Tootik~~       | https://github.com/eliortabeka/tootik      | ツールチップ本体表示後、遅れて吹き出しの尻尾が出てくる。この挙動が気になるので使えない。                                                          |
+| ~~Microtip~~     | https://github.com/ghosh/microtip          | 対象要素に `role="tooltip"` を付与しなければならない奇妙仕様。                                                                                    |
+| ~~Tippy.js~~     | https://github.com/atomiks/tippyjs         | Popper ベース。重い。                                                                                                                             |
 
-### Tooltip
+### トースト
 
-- Balloon.css  
-  https://kazzkiq.github.io/balloon.css/
-  - CSS カスタムプロパティが利用されている（そのままでは IE 11 で動かなそう）。
-- Hint.css  
-  https://kushagra.dev/lab/hint/
-  - `[class*="hint--"]` のようなセレクターが使われている。古いベンダープレフィックス付きの `-moz-transform` や `-moz-transition` が使われていて冗長。
-- Tlite  
-  https://chrisdavies.github.io/tlite/
-  - `title` 属性を見てくれるので既存コードへの適用がラク。
-- html5tooltips.js  
-  http://ytiurin.github.io/html5tooltipsjs/
-  - 表示アニメーションのプリセットがいくつかあっておもしろい（ただし実際のプロダクトではツールチップが目を引いちゃダメ）。
-- ~~Tootik~~  
-  ~~https://eliortabeka.github.io/tootik/~~
-  - ツールチップ本体表示後、遅れて吹き出しの尻尾が出てくる。この挙動が気になるので使えない。
-- ~~Microtip~~  
-  ~~https://github.com/ghosh/microtip~~
-  - 対象要素に `role="tooltip"` を付与しなければならない奇妙仕様。
-- ~~Tippy.js~~  
-  ~~https://atomiks.github.io/tippyjs/~~
-  - Popper ベース。重い。
+| 名前      | リポジトリ                             | 備考 |
+| --------- | -------------------------------------- | ---- |
+| Toastify  | https://github.com/apvarun/toastify-js |      |
+| toastedjs | https://github.com/shakee93/toastedjs  |      |
 
+### 進捗表示
 
-### Toast
+| 名前          | リポジトリ                                     | 備考                                                                                                             |
+| ------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| topbar        | https://github.com/buunguyen/topbar            |                                                                                                                  |
+| Rsup Progress | https://github.com/skt-t1-byungi/rsup-progress |                                                                                                                  |
+| ~~Pace.js~~   | https://github.com/HubSpot/pace                | XHR 時代は何も考えずに使えて非常に便利だった。既知のメモリリークがある。今後メンテナンスしないと明言されている。 |
 
-- Toastify  
-  https://apvarun.github.io/toastify-js/
-- toastedjs  
-  https://shakee93.github.io/toastedjs/
+### モーダル
 
-### Progress Indicator
+| 名前              | リポジトリ                                      | 備考                                                           |
+| ----------------- | ----------------------------------------------- | -------------------------------------------------------------- |
+| html-native-modal | https://github.com/luncheon/html-native-modal   |                                                                |
+| Modal Vanilla     | https://github.com/KaneCohen/modal-vanilla      |                                                                |
+| ~~Micromodal.js~~ | https://github.com/Ghosh/micromodal             | デモは良さそうだけど動かし方がよく分からなかった。             |
+| ~~tingle.js~~     | https://github.com/robinparisi/tingle           | 背景が全く見えなくなる。<br>閉じるときアニメーションがない。   |
+| ~~A11y Dialog~~   | https://github.com/edenspiekermann/a11y-dialog/ | マークアップが非常に煩雑。<br>閉じるときアニメーションがない。 |
 
-- topbar  
-  http://buunguyen.github.io/topbar/
-- Rsup Progress  
-  https://skt-t1-byungi.github.io/rsup-progress/
-- ~~Pace.js~~  
-  ~~https://github.hubspot.com/pace/docs/welcome/~~
-  - XHR 時代は何も考えずに使えて非常に便利だった。既知のメモリリークがある。今後メンテナンスしないと明言されている。
+### タブ
 
-### Modal
+| 名前  | リポジトリ                           | 備考 |
+| ----- | ------------------------------------ | ---- |
+| Tabby | https://github.com/cferdinandi/tabby |      |
 
-- html-native-modal  
-  https://github.com/luncheon/html-native-modal
-- Modal Vanilla  
-  https://github.com/KaneCohen/modal-vanilla
-- ~~Micromodal.js~~  
-  ~~https://micromodal.now.sh/~~
-  - デモは良さそうだけど動かし方がよく分からなかった。
-- ~~tingle.js~~  
-  ~~https://tingle.robinparisi.com/~~
-  - 背景が全く見えなくなる。閉じるときアニメーションがない。
-- ~~A11y Dialog~~  
-  ~~http://edenspiekermann.github.io/a11y-dialog/~~
-  - マークアップが非常に煩雑。閉じるときアニメーションがない。
+### カルーセル
 
-### Tabs
-
-- Tabby  
-  https://github.com/cferdinandi/tabby
-
-### Carousel
-
-- Embla Carousel  
-  https://davidcetinkaya.github.io/embla-carousel/
+| 名前           | リポジトリ                                       | 備考 |
+| -------------- | ------------------------------------------------ | ---- |
+| Embla Carousel | https://github.com/davidcetinkaya/embla-carousel |      |
 
 ## Canvas
 
-- Fabric.js  
-  http://fabricjs.com/
-- Two.js  
-  https://two.js.org/
+| 名前      | リポジトリ                            | 備考 |
+| --------- | ------------------------------------- | ---- |
+| Fabric.js | https://github.com/fabricjs/fabric.js |      |
+| Two.js    | https://github.com/jonobr1/two.js     |      |
 
+## データテーブル
 
-## Data Visualization
+| 名前          | リポジトリ                                       | 備考                         |
+| ------------- | ------------------------------------------------ | ---------------------------- |
+| Grid.js       | https://github.com/grid-js/gridjs                |                              |
+| Cheetah Grid  | https://github.com/future-architect/cheetah-grid | Canvas に表を描画する。      |
+| Clusterize.js | https://github.com/NeXTs/Clusterize.js           | 仮想スクロールライブラリ。　 |
 
-### Data Table
+## グラフ
 
-- Grid.js  
-  https://gridjs.io/
-- Cheetah Grid (rendering the table on canvas)  
-  https://future-architect.github.io/cheetah-grid/
-- Clusterize.js (virtual scroll library)  
-  https://clusterize.js.org/
+| 名前          | リポジトリ                                   | 備考             |
+| ------------- | -------------------------------------------- | ---------------- |
+| Chart.js      | https://github.com/chartjs/Chart.js          |                  |
+| APEXCHARTS.JS | hhttps://github.com/apexcharts/apexcharts.js |                  |
+| C3.js         | https://github.com/c3js/c3                   | 要 D3.js         |
+| billboard.js  | https://github.com/naver/billboard.js        | C3.js のフォーク |
+| morris.js     | https://github.com/morrisjs/morris.js        | 要 jQuery        |
+| Flot          | https://github.com/flot/flot                 | 要 jQuery        |
+| Plotly        | https://github.com/plotly/plotly.js          |                  |
+| roughViz.js   | https://github.com/jwilber/roughViz          |                  |
 
+## ミニグラフ
 
-### Chart
+| 名前       | リポジトリ                                 | 備考      |
+| ---------- | ------------------------------------------ | --------- |
+| Peity      | https://github.com/benpickles/peity        | 要 jQuery |
+| Sparklines | https://github.com/gwatts/jquery.sparkline | 要 jQuery |
 
-- Chart.js  
-  https://www.chartjs.org/
-- APEXCHARTS.JS  
-  https://apexcharts.com/
-- C3.js (requires D3.js)  
-  https://c3js.org/
-- billboard.js (fork of C3.js)  
-  https://naver.github.io/billboard.js/
-- morris.js (requires jQuery)  
-  https://morrisjs.github.io/morris.js/
-- Flot (requires jQuery)  
-  https://www.flotcharts.org/
-- Plotly  
-  https://plotly.com/javascript/
-- roughViz.js  
-  https://github.com/jwilber/roughViz
-
-
-### Mini Chart
-
-- Peity (requires jQuery)  
-  http://benpickles.github.io/peity/
-- Sparklines (requires jQuery)  
-  https://omnipotent.net/jquery.sparkline/
-
-
-## CSS Framework
+## CSS フレームワーク
 
 ### Material Design
 
-- MUI  
-  https://www.muicss.com/
-- ~~Materialize~~  
-  ~~https://materializecss.com/~~
-  - 重い。
+| 名前            | リポジトリ                             | 備考   |
+| --------------- | -------------------------------------- | ------ |
+| MUI             | https://github.com/muicss/mui          |        |
+| ~~Materialize~~ | https://github.com/Dogfalo/materialize | 重い。 |
 
+## アイコンセット
 
-## Icons
+| 名前                  | ホームページ                                 | 備考 |
+| --------------------- | -------------------------------------------- | ---- |
+| Material Design Icons | https://materialdesignicons.com/             |      |
+| Font Awesome          | https://fontawesome.com/                     |      |
+| Line Awesome          | https://icons8.com/line-awesome              |      |
+| Color Icons           | https://icons8.com/icons/color               |      |
+| Iconicons             | https://ionicons.com/                        |      |
+| Feather               | https://feathericons.com/                    |      |
+| css.gg                | https://css.gg/                              |      |
+| Eva Icons             | https://akveo.github.io/eva-icons            |      |
+| Remix Icon            | https://remixicon.com/                       |      |
+| Ikonate               | https://ikonate.com/                         |      |
+| Vue Unicons           | https://antonreshetov.github.io/vue-unicons/ |      |
+| Tabler Icons          | https://tablericons.com/                     |      |
 
-- Material Design Icons  
-  https://materialdesignicons.com/
-- Font Awesome  
-  https://fontawesome.com/
-- Icons8 Line Awesome  
-  https://github.com/icons8/line-awesome  
-- Icons8 Flat Color Icons  
-  https://github.com/icons8/flat-color-icons  
-- Iconicons  
-  https://ionicons.com/
-- Feather  
-  https://feathericons.com/
-- css.gg  
-  https://css.gg/
-- Eva Icons  
-  https://akveo.github.io/eva-icons
-- Remix Icon  
-  https://remixicon.com/
-- Ikonate  
-  https://ikonate.com/
-- Vue Unicons  
-  https://antonreshetov.github.io/vue-unicons/
-- Tabler Icons  
-  https://tablericons.com/
+### ブランドアイコンセット
 
-### Brand Icons
+| 名前         | ホームページ             | 備考 |
+| ------------ | ------------------------ | ---- |
+| Simple Icons | https://simpleicons.org/ |      |
 
-- Simple Icons  
-  https://simpleicons.org/  
+## プレゼンテーション
 
+| 名前       | ホームページ                                  | 備考 |
+| ---------- | --------------------------------------------- | ---- |
+| reveal.js  | https://revealjs.com/                         |      |
+| Bespoke.js | http://markdalgleish.com/projects/bespoke.js/ |      |
 
-## Presentation
+## その他
 
-- reveal.js  
-  https://revealjs.com/
-- Bespoke.js  
-  http://markdalgleish.com/projects/bespoke.js/
-
-
-## Others
-
-- GPU.js  
-  https://github.com/gpujs/gpu.js
+| 名前   | リポジトリ                      | 備考 |
+| ------ | ------------------------------- | ---- |
+| GPU.js | https://github.com/gpujs/gpu.js |      |
