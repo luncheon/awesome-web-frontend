@@ -108,6 +108,13 @@
 | Cheetah Grid  | https://github.com/future-architect/cheetah-grid | Canvas に表を描画する。      |
 | Clusterize.js | https://github.com/NeXTs/Clusterize.js           | 仮想スクロールライブラリ。　 |
 
+## リスト並べ替え
+
+| 名前      | リポジトリ                            | 備考 |
+| --------- | ------------------------------------- | ---- |
+| SortableJS | https://github.com/SortableJS/Sortable | |
+| Dragula | https://github.com/bevacqua/dragula | |
+
 ## グラフ
 
 | 名前          | リポジトリ                                   | 備考             |
