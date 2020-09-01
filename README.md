@@ -88,6 +88,13 @@
 | ----- | ------------------------------------ | ---- |
 | Tabby | https://github.com/cferdinandi/tabby |      |
 
+### ペイン分割
+
+| 名前 | リポジトリ                     | 備考 |
+| ---- | ------------------------------ | ---- |
+| flex-splitter-directive | https://github.com/luncheon/flex-splitter-directive |  |
+| Split | https://github.com/nathancahill/split/ |  |
+
 ### カルーセル
 
 | 名前           | リポジトリ                                       | 備考 |
