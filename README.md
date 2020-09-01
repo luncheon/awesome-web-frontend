@@ -121,7 +121,7 @@
 | 名前          | リポジトリ                                   | 備考             |
 | ------------- | -------------------------------------------- | ---------------- |
 | Chart.js      | https://github.com/chartjs/Chart.js          |                  |
-| APEXCHARTS.JS | hhttps://github.com/apexcharts/apexcharts.js |                  |
+| APEXCHARTS.JS | https://github.com/apexcharts/apexcharts.js |                  |
 | C3.js         | https://github.com/c3js/c3                   | 要 D3.js         |
 | billboard.js  | https://github.com/naver/billboard.js        | C3.js のフォーク |
 | morris.js     | https://github.com/morrisjs/morris.js        | 要 jQuery        |
