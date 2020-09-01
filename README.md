@@ -32,6 +32,7 @@
 | -------- | ------------------------------------------ | ---- |
 | Linaria  | https://github.com/callstack/linaria       |      |
 | style9   | https://github.com/johanholmerin/style9    |      |
+| cssed    | https://github.com/okotoki/cssed |    |
 | Compiled | https://github.com/atlassian-labs/compiled |      |
 
 ## フォーム
