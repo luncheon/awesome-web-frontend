@@ -123,6 +123,12 @@
 | SortableJS | https://github.com/SortableJS/Sortable | |
 | Dragula | https://github.com/bevacqua/dragula | |
 
+## Sticky
+
+| 名前      | リポジトリ                            | 備考 |
+| --------- | ------------------------------------- | ---- |
+| HC-Sticky | https://github.com/somewebmedia/hc-sticky | |
+
 ## グラフ
 
 | 名前          | リポジトリ                                   | 備考             |
