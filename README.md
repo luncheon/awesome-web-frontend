@@ -4,12 +4,13 @@
 
 ## DOM 差分レンダリング
 
-| 名前            | リポジトリ                                | 備考                                                                                                           |
-| --------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Solid           | https://github.com/ryansolid/solid        |                                                                                                                |
-| ~~Vidact~~      | https://github.com/mohebifar/vidact       |                                                                                                                |
-| lit-html        | https://github.com/polymer/lit-html       |                                                                                                                |
-| Preact          | https://github.com/preactjs/preact        |                                                                                                                |
+| 名前            | リポジトリ                                | 備考 |
+| --------------- | ----------------------------------------- | ----- |
+| Solid           | https://github.com/ryansolid/solid        | |
+| ~~Vidact~~      | https://github.com/mohebifar/vidact       | |
+| Brahmos         | https://github.com/brahmosjs/brahmos       | |
+| lit-html        | https://github.com/polymer/lit-html       | |
+| Preact          | https://github.com/preactjs/preact        ||
 | incremental-dom | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
 
 ## 状態管理
