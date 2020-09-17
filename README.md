@@ -106,8 +106,9 @@
 
 | 名前      | リポジトリ                            | 備考 |
 | --------- | ------------------------------------- | ---- |
-| Fabric.js | https://github.com/fabricjs/fabric.js |      |
-| Two.js    | https://github.com/jonobr1/two.js     |      |
+| Fabric.js | https://github.com/fabricjs/fabric.js | |
+| Konva.js | https://github.com/konvajs/konva | |
+| Two.js    | https://github.com/jonobr1/two.js | |
 
 ## データテーブル
 
