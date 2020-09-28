@@ -176,6 +176,7 @@
 | Ikonate               | https://ikonate.com/                         |      |
 | Vue Unicons           | https://antonreshetov.github.io/vue-unicons/ |      |
 | Tabler Icons          | https://tablericons.com/                     |      |
+| IcoMoon               | https://icomoon.io/app/#/select |
 
 ### ブランドアイコンセット
 
