@@ -7,6 +7,7 @@
 | 名前            | リポジトリ                                | 備考 |
 | --------------- | ----------------------------------------- | ----- |
 | Solid           | https://github.com/ryansolid/solid        | |
+| Sinuous | https://github.com/luwes/sinuous | |
 | ~~Vidact~~      | https://github.com/mohebifar/vidact       | |
 | Brahmos         | https://github.com/brahmosjs/brahmos       | |
 | lit-html        | https://github.com/polymer/lit-html       | |
