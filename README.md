@@ -163,21 +163,21 @@
 
 ## アイコンセット
 
-| 名前                  | ホームページ                                 | 備考 |
-| --------------------- | -------------------------------------------- | ---- |
-| Material Design Icons | https://materialdesignicons.com/             |      |
-| Font Awesome          | https://fontawesome.com/                     |      |
-| Line Awesome          | https://icons8.com/line-awesome              |      |
-| Color Icons           | https://icons8.com/icons/color               |      |
-| Iconicons             | https://ionicons.com/                        |      |
-| Feather               | https://feathericons.com/                    |      |
-| css.gg                | https://css.gg/                              |      |
-| Eva Icons             | https://akveo.github.io/eva-icons            |      |
-| Remix Icon            | https://remixicon.com/                       |      |
-| Ikonate               | https://ikonate.com/                         |      |
-| Vue Unicons           | https://antonreshetov.github.io/vue-unicons/ |      |
-| Tabler Icons          | https://tablericons.com/                     |      |
-| IcoMoon               | https://icomoon.io/app/#/select |
+| 名前                  | ホームページ                            | 備考 |
+| --------------------- | ------------------------------------- | ---- |
+| Material Design Icons | https://materialdesignicons.com/     |      |
+| Font Awesome          | https://fontawesome.com/             |      |
+| Line Awesome          | https://icons8.com/line-awesome      |      |
+| Color Icons           | https://icons8.com/icons/color       |      |
+| Iconicons             | https://ionicons.com/                |      |
+| Feather               | https://feathericons.com/            |      |
+| css.gg                | https://css.gg/                      |      |
+| Eva Icons             | https://akveo.github.io/eva-icons    |      |
+| Remix Icon            | https://remixicon.com/               |      |
+| Ikonate               | https://ikonate.com/                 |      |
+| Unicons               | https://github.com/Iconscout/unicons |      |
+| Tabler Icons          | https://tablericons.com/             |      |
+| IcoMoon               | https://icomoon.io/app/#/select |     |
 
 ### ブランドアイコンセット
 
