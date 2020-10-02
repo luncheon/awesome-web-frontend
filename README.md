@@ -178,6 +178,7 @@
 | Heroicons             | https://heroicons.com/               |      |
 | Font Awesome          | https://fontawesome.com/             |      |
 | Line Awesome          | https://icons8.com/line-awesome      |      |
+| IconPark              | http://iconpark.bytedance.com/official |      |
 | Color Icons           | https://icons8.com/icons/color       |      |
 | css.gg                | https://css.gg/                      |      |
 | IcoMoon               | https://icomoon.io/app/#/select      |      |
