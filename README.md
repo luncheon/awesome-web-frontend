@@ -166,20 +166,21 @@
 | 名前                  | ホームページ                            | 備考 |
 | --------------------- | ------------------------------------- | ---- |
 | Material Design Icons | https://materialdesignicons.com/     |      |
-| Font Awesome          | https://fontawesome.com/             |      |
-| Line Awesome          | https://icons8.com/line-awesome      |      |
-| Color Icons           | https://icons8.com/icons/color       |      |
 | Iconicons             | https://ionicons.com/                |      |
 | Feather               | https://feathericons.com/            |      |
-| css.gg                | https://css.gg/                      |      |
+| Emblemicons           | https://emblemicons.in/#icons        |      |
 | Eva Icons             | https://akveo.github.io/eva-icons    |      |
 | Remix Icon            | https://remixicon.com/               |      |
 | Ikonate               | https://ikonate.com/                 |      |
-| Unicons               | https://github.com/Iconscout/unicons |      |
-| Teenyicons            | https://github.com/teenyicons/teenyicons |
+| Unicons               | https://iconscout.com/unicons        |      |
+| Teenyicons            | https://teenyicons.com/              |      |
 | Tabler Icons          | https://tablericons.com/             |      |
-| Heroicons             | https://github.com/tailwindlabs/heroicons |      |
-| IcoMoon               | https://icomoon.io/app/#/select |     |
+| Heroicons             | https://heroicons.com/               |      |
+| Font Awesome          | https://fontawesome.com/             |      |
+| Line Awesome          | https://icons8.com/line-awesome      |      |
+| Color Icons           | https://icons8.com/icons/color       |      |
+| css.gg                | https://css.gg/                      |      |
+| IcoMoon               | https://icomoon.io/app/#/select      |      |
 
 ### ブランドアイコンセット
 
