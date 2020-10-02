@@ -176,7 +176,9 @@
 | Remix Icon            | https://remixicon.com/               |      |
 | Ikonate               | https://ikonate.com/                 |      |
 | Unicons               | https://github.com/Iconscout/unicons |      |
+| Teenyicons            | https://github.com/teenyicons/teenyicons |
 | Tabler Icons          | https://tablericons.com/             |      |
+| Heroicons             | https://github.com/tailwindlabs/heroicons |      |
 | IcoMoon               | https://icomoon.io/app/#/select |     |
 
 ### ブランドアイコンセット
