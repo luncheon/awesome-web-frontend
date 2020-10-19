@@ -117,7 +117,18 @@
 | ------------- | ------------------------------------------------ | ---------------------------- |
 | Grid.js       | https://github.com/grid-js/gridjs                |                              |
 | Cheetah Grid  | https://github.com/future-architect/cheetah-grid | Canvas に表を描画する。      |
-| Clusterize.js | https://github.com/NeXTs/Clusterize.js           | 仮想スクロールライブラリ。　 |
+
+### スプレッドシート
+
+| 名前          | リポジトリ                                       | 備考 |
+| ------------- | ------------------------------------------------ | ---- |
+| Importabular  | https://github.com/renanlecaro/importabular | |
+
+### 仮想スクロール
+
+| 名前          | リポジトリ                                       | 備考 |
+| ------------- | ------------------------------------------------ | ---- |
+| Clusterize.js | https://github.com/NeXTs/Clusterize.js           | |
 
 ## リスト並べ替え
 
