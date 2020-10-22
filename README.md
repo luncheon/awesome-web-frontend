@@ -207,6 +207,15 @@
 | reveal.js  | https://revealjs.com/                         |      |
 | Bespoke.js | http://markdalgleish.com/projects/bespoke.js/ |      |
 
+## 型チェック
+
+| 名前       | リポジトリ                                    | 備考 |
+| ---------- | --------------------------------------------- | ---- |
+| TypeBox                            | https://github.com/sinclairzx81/typebox            | TypeScript DSL -> TypeScript Types, JSON Schema |
+| ts-runtime                         | https://github.com/fabiandev/ts-runtime            | TypeScript Types -> Runtime Type Validator |
+| typescript-json-schema             | https://github.com/YousefED/typescript-json-schema | TypeScript Types -> JSON Schema |
+| Ajv: Another JSON Schema Validator | https://github.com/ajv-validator/ajv               | JSON Schema Validator |
+
 ## その他
 
 | 名前   | リポジトリ                      | 備考 |
