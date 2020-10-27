@@ -7,11 +7,11 @@
 | 名前            | リポジトリ                                | 備考 |
 | --------------- | ----------------------------------------- | ----- |
 | Solid           | https://github.com/ryansolid/solid        | |
-| Sinuous | https://github.com/luwes/sinuous | |
+| Sinuous         | https://github.com/luwes/sinuous          | |
 | ~~Vidact~~      | https://github.com/mohebifar/vidact       | |
-| Brahmos         | https://github.com/brahmosjs/brahmos       | |
+| Brahmos         | https://github.com/brahmosjs/brahmos      | |
 | lit-html        | https://github.com/polymer/lit-html       | |
-| Preact          | https://github.com/preactjs/preact        ||
+| Preact          | https://github.com/preactjs/preact        | |
 | incremental-dom | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
 
 ## 状態管理
@@ -102,6 +102,18 @@
 | 名前           | リポジトリ                                       | 備考 |
 | -------------- | ------------------------------------------------ | ---- |
 | Embla Carousel | https://github.com/davidcetinkaya/embla-carousel |      |
+
+### Date Picker
+
+| 名前    | リポジトリ                         | 備考 |
+| ------- | ---------------------------------- | ---- |
+| Pikaday | https://github.com/Pikaday/Pikaday |      |
+
+### Time Picker
+
+| 名前     | リポジトリ                           | 備考 |
+| -------  | ------------------------------------ | ---- |
+| Clocklet | https://github.com/luncheon/clocklet |      |
 
 ## Canvas
 
