@@ -127,7 +127,7 @@
 
 | 名前          | リポジトリ                                       | 備考 |
 | ------------- | ------------------------------------------------ | ---- |
-| agGrid        | https://github.com/ag-grid/ag-grid               | Enterprise 版は有料 |
+| agGrid        | https://github.com/ag-grid/ag-grid               | Enterprise 版は有料（商用利用有料って紹介してる記事もあるけど大丈夫そう） |
 | Grid.js       | https://github.com/grid-js/gridjs                | |
 | Cheetah Grid  | https://github.com/future-architect/cheetah-grid | Canvas に表を描画する。 |
 
