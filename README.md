@@ -125,16 +125,18 @@
 
 ## データテーブル
 
-| 名前          | リポジトリ                                       | 備考                         |
-| ------------- | ------------------------------------------------ | ---------------------------- |
-| Grid.js       | https://github.com/grid-js/gridjs                |                              |
-| Cheetah Grid  | https://github.com/future-architect/cheetah-grid | Canvas に表を描画する。      |
+| 名前          | リポジトリ                                       | 備考 |
+| ------------- | ------------------------------------------------ | ---- |
+| agGrid        | https://github.com/ag-grid/ag-grid               | Enterprise 版は有料 |
+| Grid.js       | https://github.com/grid-js/gridjs                | |
+| Cheetah Grid  | https://github.com/future-architect/cheetah-grid | Canvas に表を描画する。 |
 
 ### スプレッドシート
 
-| 名前          | リポジトリ                                       | 備考 |
-| ------------- | ------------------------------------------------ | ---- |
-| Importabular  | https://github.com/renanlecaro/importabular | |
+| 名前         | リポジトリ                                       | 備考 |
+| ------------ | ------------------------------------------- | ---- |
+| jExcel       | https://github.com/paulhodel/jexcel         | |
+| Importabular | https://github.com/renanlecaro/importabular | |
 
 ### 仮想スクロール
 
