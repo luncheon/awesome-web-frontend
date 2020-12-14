@@ -137,6 +137,7 @@
 | ------------ | ------------------------------------------- | ---- |
 | jExcel       | https://github.com/paulhodel/jexcel         | |
 | Importabular | https://github.com/renanlecaro/importabular | |
+| Luckysheet   | https://github.com/mengshukeji/Luckysheet   | |
 
 ### 仮想スクロール
 
@@ -234,4 +235,5 @@
 
 | 名前   | リポジトリ                      | 備考 |
 | ------ | ------------------------------- | ---- |
-| GPU.js | https://github.com/gpujs/gpu.js |      |
+| GPU.js | https://github.com/gpujs/gpu.js | |
+| Rough Notation | https://github.com/rough-stuff/rough-notation | |
