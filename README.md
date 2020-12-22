@@ -134,10 +134,11 @@
 ### スプレッドシート
 
 | 名前         | リポジトリ                                       | 備考 |
-| ------------ | ------------------------------------------- | ---- |
-| jExcel       | https://github.com/paulhodel/jexcel         | |
-| Importabular | https://github.com/renanlecaro/importabular | |
-| Luckysheet   | https://github.com/mengshukeji/Luckysheet   | |
+| ------------- | ------------------------------------------- | ---- |
+| jExcel        | https://github.com/paulhodel/jexcel         | |
+| Importabular  | https://github.com/renanlecaro/importabular | |
+| Luckysheet    | https://github.com/mengshukeji/Luckysheet   | |
+| x-spreadsheet | https://github.com/myliang/x-spreadsheet    | |
 
 ### 仮想スクロール
 
