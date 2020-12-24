@@ -190,25 +190,26 @@
 
 ## アイコンセット
 
-| 名前                  | ホームページ                            | 備考 |
-| --------------------- | ------------------------------------- | ---- |
-| Material Design Icons | https://materialdesignicons.com/     |      |
-| Iconicons             | https://ionicons.com/                |      |
-| Feather               | https://feathericons.com/            |      |
-| Emblemicons           | https://emblemicons.in/#icons        |      |
-| Eva Icons             | https://akveo.github.io/eva-icons    |      |
-| Remix Icon            | https://remixicon.com/               |      |
-| Ikonate               | https://ikonate.com/                 |      |
-| Unicons               | https://iconscout.com/unicons        |      |
-| Teenyicons            | https://teenyicons.com/              |      |
-| Tabler Icons          | https://tablericons.com/             |      |
-| Heroicons             | https://heroicons.com/               |      |
-| Font Awesome          | https://fontawesome.com/             |      |
-| Line Awesome          | https://icons8.com/line-awesome      |      |
+| 名前                  | ホームページ                              | 備考 |
+| --------------------- | -------------------------------------- | ---- |
+| Fluent Icons          | https://fluenticons.co/                |      |
+| Material Design Icons | https://materialdesignicons.com/       |      |
+| Iconicons             | https://ionicons.com/                  |      |
+| Feather               | https://feathericons.com/              |      |
+| Emblemicons           | https://emblemicons.in/#icons          |      |
+| Eva Icons             | https://akveo.github.io/eva-icons      |      |
+| Remix Icon            | https://remixicon.com/                 |      |
+| Ikonate               | https://ikonate.com/                   |      |
+| Unicons               | https://iconscout.com/unicons          |      |
+| Teenyicons            | https://teenyicons.com/                |      |
+| Tabler Icons          | https://tablericons.com/               |      |
+| Heroicons             | https://heroicons.com/                 |      |
+| Font Awesome          | https://fontawesome.com/               |      |
+| Line Awesome          | https://icons8.com/line-awesome        |      |
 | IconPark              | http://iconpark.bytedance.com/official |      |
-| Color Icons           | https://icons8.com/icons/color       |      |
-| css.gg                | https://css.gg/                      |      |
-| IcoMoon               | https://icomoon.io/app/#/select      |      |
+| Color Icons           | https://icons8.com/icons/color         |      |
+| css.gg                | https://css.gg/                        |      |
+| IcoMoon               | https://icomoon.io/app/#/select        |      |
 
 ### ブランドアイコンセット
 
