@@ -236,6 +236,7 @@
 ## その他
 
 | 名前   | リポジトリ                      | 備考 |
-| ------ | ------------------------------- | ---- |
-| GPU.js | https://github.com/gpujs/gpu.js | |
+| -------------- | --------------------------------------------- | ---- |
+| GPU.js         | https://github.com/gpujs/gpu.js               | |
 | Rough Notation | https://github.com/rough-stuff/rough-notation | |
+| Moji.js        | https://github.com/niwaringo/moji             | 半角英数↔全角英数、半角カナ↔全角カナ、ひらがな↔カタカナ変換等をあつかうライブラリ |
