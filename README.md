@@ -238,6 +238,7 @@
 | 名前   | リポジトリ                      | 備考 |
 | -------------- | --------------------------------------------- | ---- |
 | GPU.js         | https://github.com/gpujs/gpu.js               | |
+| Parallel.js    | https://github.com/parallel-js/parallel.js    | |
 | Rough Notation | https://github.com/rough-stuff/rough-notation | |
 | Moji.js        | https://github.com/niwaringo/moji             | 半角全角変換ライブラリ |
 | YubinBango     | https://github.com/yubinbango/yubinbango-data | 郵便番号 → 住所データ |
