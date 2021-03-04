@@ -194,6 +194,7 @@
 | --------------------- | -------------------------------------- | ---- |
 | Fluent Icons          | https://fluenticons.co/                |      |
 | Material Design Icons | https://materialdesignicons.com/       |      |
+| Glyphs                | https://glyphs.fyi/dir                 |      |
 | Iconicons             | https://ionicons.com/                  |      |
 | Feather               | https://feathericons.com/              |      |
 | Emblemicons           | https://emblemicons.in/#icons          |      |
