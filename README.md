@@ -10,6 +10,7 @@
 | Sinuous         | https://github.com/luwes/sinuous          | |
 | ~~Vidact~~      | https://github.com/mohebifar/vidact       | |
 | Brahmos         | https://github.com/brahmosjs/brahmos      | |
+| jsx-lite        | https://github.com/BuilderIO/jsx-lite     | |
 | lit-html        | https://github.com/polymer/lit-html       | |
 | Preact          | https://github.com/preactjs/preact        | |
 | incremental-dom | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
@@ -30,12 +31,13 @@
 
 ## CSS in JS
 
-| 名前     | リポジトリ                                 | 備考 |
-| -------- | ------------------------------------------ | ---- |
-| Linaria  | https://github.com/callstack/linaria       |      |
-| style9   | https://github.com/johanholmerin/style9    |      |
-| cssed    | https://github.com/okotoki/cssed |    |
-| Compiled | https://github.com/atlassian-labs/compiled |      |
+| 名前         | リポジトリ                                 | 備考 |
+| ------------ | ------------------------------------------ | ---- |
+| Linaria      | https://github.com/callstack/linaria       |      |
+| style9       | https://github.com/johanholmerin/style9    |      |
+| cssed        | https://github.com/okotoki/cssed           |      |
+| Compiled     | https://github.com/atlassian-labs/compiled |      |
+| LightwindCSS | https://github.com/uhyo/lightwindcss       |      |
 
 ## フォーム
 
@@ -68,11 +70,11 @@
 
 ### 進捗表示
 
-| 名前          | リポジトリ                                     | 備考                                                                                                             |
-| ------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| topbar        | https://github.com/buunguyen/topbar            |                                                                                                                  |
-| Rsup Progress | https://github.com/skt-t1-byungi/rsup-progress |                                                                                                                  |
-| ~~Pace.js~~   | https://github.com/HubSpot/pace                | XHR 時代は何も考えずに使えて非常に便利だった。既知のメモリリークがある。今後メンテナンスしないと明言されている。 |
+| 名前          | リポジトリ                                     | 備考 |
+| ------------- | ---------------------------------------------- | ---- |
+| topbar        | https://github.com/buunguyen/topbar            |    |
+| Rsup Progress | https://github.com/skt-t1-byungi/rsup-progress |    |
+| ~~Pace.js~~   | https://github.com/HubSpot/pace                | XHR 時代は何も考えずに使えて非常に便利だった。既知のメモリリークがある。 ~~今後メンテナンスしないと明言されている。~~ 移管されてメンテナンス再開されてるっぽい。 |
 
 ### モーダル
 
@@ -103,10 +105,19 @@
 | -------------- | ------------------------------------------------ | ---- |
 | Embla Carousel | https://github.com/davidcetinkaya/embla-carousel |      |
 
+### 複数選択ボックス
+
+| 名前           | リポジトリ                                  | 備考 |
+| -------------- | ------------------------------------------- | ---- |
+| Virtual Select | https://github.com/sa-si-dev/virtual-select |      |
+| Choices.js     | https://github.com/jshjohnson/Choices       |      |
+| \<multiselect-combo-box\> | https://github.com/gatanaso/multiselect-combo-box | Polymer |
+
 ### Date Picker
 
 | 名前    | リポジトリ                         | 備考 |
 | ------- | ---------------------------------- | ---- |
+| `<input type="date">` |  | もうこれで十分 |
 | Pikaday | https://github.com/Pikaday/Pikaday |      |
 
 ### Time Picker
