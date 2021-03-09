@@ -107,10 +107,11 @@
 
 ### 複数選択ボックス
 
-| 名前           | リポジトリ                                  | 備考 |
-| -------------- | ------------------------------------------- | ---- |
-| Virtual Select | https://github.com/sa-si-dev/virtual-select |      |
-| Choices.js     | https://github.com/jshjohnson/Choices       |      |
+| 名前             | リポジトリ                                            | 備考 |
+| ---------------- | ----------------------------------------------------- | ---- |
+| Virtual Select   | https://github.com/sa-si-dev/virtual-select           |      |
+| vanillaSelectBox | https://github.com/PhilippeMarcMeyer/vanillaSelectBox |      |
+| Choices.js       | https://github.com/jshjohnson/Choices                 |      |
 | \<multiselect-combo-box\> | https://github.com/gatanaso/multiselect-combo-box | Polymer |
 
 ### Date Picker
