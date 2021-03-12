@@ -109,6 +109,7 @@
 
 | 名前             | リポジトリ                                            | 備考 |
 | ---------------- | ----------------------------------------------------- | ---- |
+| elab             | https://github.com/luncheon/elab                      |      |
 | Virtual Select   | https://github.com/sa-si-dev/virtual-select           |      |
 | vanillaSelectBox | https://github.com/PhilippeMarcMeyer/vanillaSelectBox |      |
 | Choices.js       | https://github.com/jshjohnson/Choices                 |      |
