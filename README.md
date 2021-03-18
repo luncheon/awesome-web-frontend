@@ -78,11 +78,11 @@
 
 ### モーダル
 
-| 名前              | リポジトリ                                      | 備考                                                           |
-| ----------------- | ----------------------------------------------- | -------------------------------------------------------------- |
-| html-native-modal | https://github.com/luncheon/html-native-modal   |                                                                |
-| Modal Vanilla     | https://github.com/KaneCohen/modal-vanilla      |                                                                |
-| ~~Micromodal.js~~ | https://github.com/Ghosh/micromodal             | デモは良さそうだけど動かし方がよく分からなかった。             |
+| 名前              | リポジトリ                                      | 備考 |
+| ----------------- | ----------------------------------------------- | ---- |
+| html-native-modal | https://github.com/luncheon/html-native-modal   | `<dialog>` は `z-index` に関係なく他の absolute / fixed / sticky 要素より手前に表示されるので、ツールチップやトーストなどポップアップと相性が悪い場合がある。 |
+| Modal Vanilla     | https://github.com/KaneCohen/modal-vanilla      |      |
+| Micromodal.js     | https://github.com/Ghosh/micromodal             |      |
 | ~~tingle.js~~     | https://github.com/robinparisi/tingle           | 背景が全く見えなくなる。<br>閉じるときアニメーションがない。   |
 | ~~A11y Dialog~~   | https://github.com/edenspiekermann/a11y-dialog/ | マークアップが非常に煩雑。<br>閉じるときアニメーションがない。 |
 
@@ -109,7 +109,7 @@
 
 | 名前             | リポジトリ                                            | 備考 |
 | ---------------- | ----------------------------------------------------- | ---- |
-| elab             | https://github.com/luncheon/elab                      |      |
+| elab             | https://github.com/luncheon/elab                      | スクリプト記述不要 |
 | Virtual Select   | https://github.com/sa-si-dev/virtual-select           |      |
 | vanillaSelectBox | https://github.com/PhilippeMarcMeyer/vanillaSelectBox |      |
 | Choices.js       | https://github.com/jshjohnson/Choices                 |      |
