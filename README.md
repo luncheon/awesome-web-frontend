@@ -45,6 +45,7 @@
 | --------------- | ----------------------------------------------- | ---- |
 | tailwindcss     | https://github.com/tailwindlabs/tailwindcss     |      |
 | tailwindcss-jit | https://github.com/tailwindlabs/tailwindcss-jit |      |
+| tailwindcss-intellisense | https://github.com/tailwindlabs/tailwindcss-intellisense | https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss |
 | Windi CSS       | https://github.com/windicss/windicss            |      |
 | twind           | https://github.com/tw-in-js/twind               |      |
 | twin.macro      | https://github.com/ben-rogerson/twin.macro      |      |
