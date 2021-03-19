@@ -50,6 +50,8 @@
 | Windi CSS                | https://github.com/windicss/windicss                     |      |
 | twind                    | https://github.com/tw-in-js/twind                        |      |
 | twin.macro               | https://github.com/ben-rogerson/twin.macro               |      |
+| xwind                    | https://github.com/Arthie/xwind                          |      |
+| Typed Tailwind           | https://github.com/thien-do/typed.tw                     |      |
 
 ## フォーム
 
