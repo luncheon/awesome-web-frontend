@@ -268,5 +268,6 @@
 | GPU.js         | https://github.com/gpujs/gpu.js               | |
 | Parallel.js    | https://github.com/parallel-js/parallel.js    | |
 | Rough Notation | https://github.com/rough-stuff/rough-notation | |
+| lz-string      | https://github.com/pieroxy/lz-string          | 高速なテキスト圧縮 https://pieroxy.net/blog/pages/lz-string/demo.html |
 | Moji.js        | https://github.com/niwaringo/moji             | 半角全角変換ライブラリ |
 | YubinBango     | https://github.com/yubinbango/yubinbango-data | 郵便番号 → 住所データ |
