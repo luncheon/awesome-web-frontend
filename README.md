@@ -117,6 +117,7 @@
 
 | 名前           | リポジトリ                                       | 備考 |
 | -------------- | ------------------------------------------------ | ---- |
+| Flicking       | https://github.com/naver/egjs-flicking           |      |
 | Embla Carousel | https://github.com/davidcetinkaya/embla-carousel |      |
 
 ### 複数選択ボックス
