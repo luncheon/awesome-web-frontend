@@ -239,6 +239,7 @@
 | Color Icons           | https://icons8.com/icons/color         |      |
 | css.gg                | https://css.gg/                        |      |
 | IcoMoon               | https://icomoon.io/app/#/select        |      |
+| Akar Icons            | https://akaricons.com/                 |      |
 
 ### ブランドアイコンセット
 
