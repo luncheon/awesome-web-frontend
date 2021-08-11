@@ -241,6 +241,7 @@
 | css.gg                | https://css.gg/                        |      |
 | IcoMoon               | https://icomoon.io/app/#/select        |      |
 | Akar Icons            | https://akaricons.com/                 |      |
+| Iconoir               | https://iconoir.com/                   |      |
 
 ### ブランドアイコンセット
 
