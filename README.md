@@ -100,6 +100,12 @@
 | ~~tingle.js~~     | https://github.com/robinparisi/tingle           | 背景が全く見えなくなる。<br>閉じるときアニメーションがない。   |
 | ~~A11y Dialog~~   | https://github.com/edenspiekermann/a11y-dialog/ | マークアップが非常に煩雑。<br>閉じるときアニメーションがない。 |
 
+### ウィンドウ
+
+| 名前 | リポジトリ | 備考 |
+| ---- | ---- | ---- |
+| Golden Layout | https://github.com/golden-layout/golden-layout | |
+
 ### タブ
 
 | 名前  | リポジトリ                           | 備考 |
