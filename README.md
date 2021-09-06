@@ -59,7 +59,8 @@
 
 | 名前 | リポジトリ                     | 備考 |
 | ---- | ------------------------------ | ---- |
-| Vest | https://github.com/ealush/vest |      |
+| Vest | https://github.com/ealush/vest | |
+| Yup  | https://github.com/jquense/yup | |
 
 ## UI 要素
 
