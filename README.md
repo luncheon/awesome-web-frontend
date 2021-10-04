@@ -263,6 +263,12 @@
 | reveal.js  | https://revealjs.com/                         |      |
 | Bespoke.js | http://markdalgleish.com/projects/bespoke.js/ |      |
 
+## 文書
+
+| 名前 | リポジトリ | 備考 |
+| ---- | ---- | ---- |
+| docx | https://github.com/dolanmiu/docx | .docx ファイル作成 |
+
 ## 型チェック
 
 | 名前       | リポジトリ                                    | 備考 |
