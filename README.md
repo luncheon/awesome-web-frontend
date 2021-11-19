@@ -126,6 +126,7 @@
 | -------------- | ------------------------------------------------ | ---- |
 | Flicking       | https://github.com/naver/egjs-flicking           |      |
 | Embla Carousel | https://github.com/davidcetinkaya/embla-carousel |      |
+| Splide         | https://github.com/Splidejs/splide               |      |
 
 ### 複数選択ボックス
 
@@ -249,6 +250,7 @@
 | IcoMoon               | https://icomoon.io/app/#/select        |      |
 | Akar Icons            | https://akaricons.com/                 |      |
 | Iconoir               | https://iconoir.com/                   |      |
+| Boxicons              | https://boxicons.com/                  |      |
 
 ### ブランドアイコンセット
 
