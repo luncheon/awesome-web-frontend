@@ -271,6 +271,12 @@
 | ---- | ---- | ---- |
 | docx | https://github.com/dolanmiu/docx | .docx ファイル作成 |
 
+## 3D Model
+
+| 名前 | リポジトリ | 備考 |
+| ---- | ---- | ---- |
+| &lt;model-viewer&gt; | https://github.com/google/model-viewer | glTF & GLB viewer |
+
 ## 型チェック
 
 | 名前       | リポジトリ                                    | 備考 |
