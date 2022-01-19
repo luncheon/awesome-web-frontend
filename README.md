@@ -175,6 +175,7 @@
 | Importabular  | https://github.com/renanlecaro/importabular | |
 | Luckysheet    | https://github.com/mengshukeji/Luckysheet   | |
 | x-spreadsheet | https://github.com/myliang/x-spreadsheet    | |
+| SheetJS       | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
 
 ### 仮想スクロール
 
@@ -269,7 +270,11 @@
 
 | 名前 | リポジトリ | 備考 |
 | ---- | ---- | ---- |
-| docx | https://github.com/dolanmiu/docx | .docx ファイル作成 |
+| docx    | https://github.com/dolanmiu/docx   | .docx ファイル作成 |
+| PDF.js  | https://github.com/mozilla/pdf.js  | PDF を Canvas に描画 |
+| PDF-LIB | https://github.com/Hopding/pdf-lib | PDF ファイル作成 |
+| PDFKit  | https://github.com/foliojs/pdfkit  | PDF ファイル作成 |
+| jsPDF   | https://github.com/parallax/jsPDF  | PDF ファイル作成 |
 
 ## 3D Model
 
