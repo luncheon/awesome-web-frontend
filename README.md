@@ -286,6 +286,14 @@
 | typescript-json-schema             | https://github.com/YousefED/typescript-json-schema | TypeScript Types -> JSON Schema |
 | Ajv: Another JSON Schema Validator | https://github.com/ajv-validator/ajv               | JSON Schema Validator |
 
+## パーサージェネレーター
+
+| 名前 | リポジトリ | 備考 |
+| ------- | ------------------------------- | ---- |
+| PEG.js  | https://github.com/pegjs/pegjs  |  |
+| Ohm     | https://github.com/harc/ohm     |  |
+| nearley | https://github.com/kach/nearley |  |
+
 ## その他
 
 | 名前   | リポジトリ                      | 備考 |
