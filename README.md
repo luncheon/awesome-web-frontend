@@ -151,6 +151,15 @@
 | -------  | ------------------------------------ | ---- |
 | Clocklet | https://github.com/luncheon/clocklet |      |
 
+### 手書き風
+
+| 名前          | リポジトリ                                       | 備考 |
+| -------------- | --------------------------------------------- | ---- |
+| Rough.js       | https://github.com/rough-stuff/rough          | SVG または Canvas に描画するグラフィックスライブラリ |
+| Rough Notation | https://github.com/rough-stuff/rough-notation | 下線や囲み線などによる装飾ライブラリ |
+| Chart.xkcd     | https://github.com/timqian/chart.xkcd         | グラフライブラリ |
+| roughViz.js    | https://github.com/jwilber/roughViz           | グラフライブラリ／要 D3.js |
+
 ## Canvas
 
 | 名前      | リポジトリ                            | 備考 |
@@ -208,7 +217,6 @@
 | morris.js     | https://github.com/morrisjs/morris.js        | 要 jQuery        |
 | Flot          | https://github.com/flot/flot                 | 要 jQuery        |
 | Plotly        | https://github.com/plotly/plotly.js          |                  |
-| roughViz.js   | https://github.com/jwilber/roughViz          |                  |
 
 ## ミニグラフ
 
@@ -306,7 +314,6 @@
 | -------------- | --------------------------------------------- | ---- |
 | GPU.js         | https://github.com/gpujs/gpu.js               | |
 | Parallel.js    | https://github.com/parallel-js/parallel.js    | |
-| Rough Notation | https://github.com/rough-stuff/rough-notation | |
 | lz-string      | https://github.com/pieroxy/lz-string          | 高速なテキスト圧縮 `compressToUTF16()`<br> https://pieroxy.net/blog/pages/lz-string/demo.html |
 | Moji.js        | https://github.com/niwaringo/moji             | 半角全角変換ライブラリ |
 | YubinBango     | https://github.com/yubinbango/yubinbango-data | 郵便番号 → 住所データ |
