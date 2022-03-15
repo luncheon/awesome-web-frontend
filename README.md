@@ -261,6 +261,7 @@
 | Akar Icons            | https://akaricons.com/                 |      |
 | Iconoir               | https://iconoir.com/                   |      |
 | Boxicons              | https://boxicons.com/                  |      |
+| Doodle Icons          | https://khushmeen.com/icons.html       |      |
 
 ### ブランドアイコンセット
 
