@@ -9,11 +9,11 @@
 | Solid           | https://github.com/ryansolid/solid        | |
 | Sinuous         | https://github.com/luwes/sinuous          | |
 | ~~Vidact~~      | https://github.com/mohebifar/vidact       | |
-| Brahmos         | https://github.com/brahmosjs/brahmos      | |
+| ~~Brahmos~~     | https://github.com/brahmosjs/brahmos      | |
 | jsx-lite        | https://github.com/BuilderIO/jsx-lite     | |
 | lit-html        | https://github.com/polymer/lit-html       | |
 | Preact          | https://github.com/preactjs/preact        | |
-| incremental-dom | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
+| ~~incremental-dom~~ | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
 
 ## 状態管理
 
@@ -35,23 +35,23 @@
 | ------------ | ------------------------------------------ | ---- |
 | Linaria      | https://github.com/callstack/linaria       |      |
 | style9       | https://github.com/johanholmerin/style9    |      |
-| cssed        | https://github.com/okotoki/cssed           |      |
+| ~~cssed~~    | https://github.com/okotoki/cssed           |      |
 | Compiled     | https://github.com/atlassian-labs/compiled |      |
-| LightwindCSS | https://github.com/uhyo/lightwindcss       |      |
+| ~~LightwindCSS~~ | https://github.com/uhyo/lightwindcss       |      |
 
 ## Tailwind CSS
 
 | 名前            | リポジトリ                                      | 備考 |
 | ------------------------ | -------------------------------------------------------- | ---- |
 | tailwindcss              | https://github.com/tailwindlabs/tailwindcss              |      |
-| tailwindcss-jit          | https://github.com/tailwindlabs/tailwindcss-jit          |      |
 | tailwindcss-intellisense | https://github.com/tailwindlabs/tailwindcss-intellisense | https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss |
 | tailwindcss-classnames   | https://github.com/muhammadsammy/tailwindcss-classnames  |      |
 | Windi CSS                | https://github.com/windicss/windicss                     |      |
 | twind                    | https://github.com/tw-in-js/twind                        |      |
 | twin.macro               | https://github.com/ben-rogerson/twin.macro               |      |
 | xwind                    | https://github.com/Arthie/xwind                          |      |
-| Typed Tailwind           | https://github.com/thien-do/typed.tw                     |      |
+| ~~Typed Tailwind~~       | https://github.com/thien-do/typed.tw                     |      |
+| UnoCSS                   | https://github.com/unocss/unocss                         |      |
 
 ## フォーム
 
