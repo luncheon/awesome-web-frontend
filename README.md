@@ -182,10 +182,10 @@
 
 | 名前         | リポジトリ                                       | 備考 |
 | ------------- | ------------------------------------------- | ---- |
-| jExcel        | https://github.com/paulhodel/jexcel         | |
+| ~~jExcel~~<br>Jspreadsheet | ~~https://github.com/paulhodel/jexcel~~<br>https://github.com/jspreadsheet/ce | |
 | Importabular  | https://github.com/renanlecaro/importabular | |
 | Luckysheet    | https://github.com/mengshukeji/Luckysheet   | |
-| x-spreadsheet | https://github.com/myliang/x-spreadsheet    | |
+| x-spreadsheet | https://github.com/myliang/x-spreadsheet    | Canvas |
 | SheetJS       | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
 
 ### 仮想スクロール
