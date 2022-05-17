@@ -14,6 +14,7 @@
 | lit-html        | https://github.com/polymer/lit-html       | |
 | Preact          | https://github.com/preactjs/preact        | |
 | ~~incremental-dom~~ | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
+| Voby            | https://github.com/vobyjs/voby            | |
 
 ## 状態管理
 
