@@ -235,6 +235,12 @@
 | MUI             | https://github.com/muicss/mui          |        |
 | ~~Materialize~~ | https://github.com/Dogfalo/materialize | 重い。 |
 
+## アイコンセット検索
+
+| 名前                  | ホームページ                              | 備考 |
+| --------------------- | -------------------------------------- | ---- |
+| Iconer                | https://iconer.app/                    |      |
+
 ## アイコンセット
 
 | 名前                  | ホームページ                              | 備考 |
