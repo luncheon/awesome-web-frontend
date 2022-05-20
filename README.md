@@ -161,12 +161,23 @@
 | Chart.xkcd     | https://github.com/timqian/chart.xkcd         | グラフライブラリ |
 | roughViz.js    | https://github.com/jwilber/roughViz           | グラフライブラリ／要 D3.js |
 
+## SVG
+
+| 名前 | リポジトリ | 備考 |
+| ------------------- | ------------------------------------------------------ | ----- |
+| svgo                | https://github.com/svg/svgo                            | SVG Optimizer |
+| svg-path-properties | https://github.com/rveciana/svg-path-properties        | `<path>` の `getPointAtLength()` と `getTotalLength()` |
+| svgpath             | https://github.com/fontello/svgpath                    | `<path>` のアフィン変換 |
+| svg-path-bbox       | https://github.com/mondeja/svg-path-bbox               | `<path>` のバウンディングボックス計算（上の svgpath 依存） |
+| SVGCatmullRomSpline | https://github.com/SatoshiKawabata/SVGCatmullRomSpline | 点の配列を曲線で結ぶ（Catmull-Rom Spline 補完） |
+| simplify-svg-path   | https://github.com/luncheon/simplify-svg-path          | 点の配列を曲線で近似（Paper.js から当該機能だけ切り出したモジュール） |
+
 ## Canvas
 
 | 名前      | リポジトリ                            | 備考 |
 | --------- | ------------------------------------- | ---- |
 | Fabric.js | https://github.com/fabricjs/fabric.js | |
-| Konva.js | https://github.com/konvajs/konva | |
+| Konva.js  | https://github.com/konvajs/konva | |
 | Two.js    | https://github.com/jonobr1/two.js | |
 
 ## データテーブル
