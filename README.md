@@ -325,4 +325,5 @@
 | lz-string      | https://github.com/pieroxy/lz-string          | 高速なテキスト圧縮 `compressToUTF16()`<br> https://pieroxy.net/blog/pages/lz-string/demo.html |
 | Moji.js        | https://github.com/niwaringo/moji             | 半角全角変換ライブラリ |
 | YubinBango     | https://github.com/yubinbango/yubinbango-data | 郵便番号 → 住所データ |
+| ScrollBooster  | https://github.com/ilyashubin/scrollbooster   | ドラッグで慣性スクロール |
 | Chrome Network Log | chrome://net-export/ | |
