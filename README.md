@@ -221,15 +221,16 @@
 
 ## グラフ
 
-| 名前          | リポジトリ                                   | 備考             |
-| ------------- | -------------------------------------------- | ---------------- |
-| Chart.js      | https://github.com/chartjs/Chart.js          |                  |
-| APEXCHARTS.JS | https://github.com/apexcharts/apexcharts.js |                  |
-| C3.js         | https://github.com/c3js/c3                   | 要 D3.js         |
-| billboard.js  | https://github.com/naver/billboard.js        | C3.js のフォーク |
-| morris.js     | https://github.com/morrisjs/morris.js        | 要 jQuery        |
-| Flot          | https://github.com/flot/flot                 | 要 jQuery        |
-| Plotly        | https://github.com/plotly/plotly.js          |                  |
+| 名前           | リポジトリ                                   | 備考 |
+| -------------- | -------------------------------------------- | ---- |
+| Chart.js       | https://github.com/chartjs/Chart.js          | |
+| APEXCHARTS.JS  | https://github.com/apexcharts/apexcharts.js | |
+| C3.js          | https://github.com/c3js/c3                   | 要 D3.js         |
+| billboard.js   | https://github.com/naver/billboard.js        | C3.js のフォーク |
+| morris.js      | https://github.com/morrisjs/morris.js        | 要 jQuery        |
+| Flot           | https://github.com/flot/flot                 | 要 jQuery        |
+| Plotly         | https://github.com/plotly/plotly.js          | |
+| Apache ECharts | https://github.com/apache/echarts            | |
 
 ## ミニグラフ
 
