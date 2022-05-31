@@ -280,6 +280,7 @@
 | Iconoir               | https://iconoir.com/                   |      |
 | Boxicons              | https://boxicons.com/                  |      |
 | Doodle Icons          | https://khushmeen.com/icons.html       |      |
+| Humbleicons           | https://humbleicons.com/               |      |
 
 ### ブランドアイコンセット
 
