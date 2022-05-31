@@ -195,7 +195,8 @@
 | ------------- | ------------------------------------------- | ---- |
 | ~~jExcel~~<br>Jspreadsheet | ~~https://github.com/paulhodel/jexcel~~<br>https://github.com/jspreadsheet/ce | |
 | Importabular  | https://github.com/renanlecaro/importabular | |
-| Luckysheet    | https://github.com/mengshukeji/Luckysheet   | |
+| Luckysheet    | https://github.com/mengshukeji/Luckysheet   | Canvas, jQuery UI, font-awesome, echarts |
+| FortuneSheet  | https://github.com/ruilisi/fortune-sheet    | TypeScript で書き直された Luckysheet <br>[（Luckysheet 本体も TypeScript で書き直し中）](https://github.com/mengshukeji/Luckysheet/issues/799) |
 | x-spreadsheet | https://github.com/myliang/x-spreadsheet    | Canvas |
 | SheetJS       | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
 
