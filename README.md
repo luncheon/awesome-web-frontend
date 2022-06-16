@@ -7,12 +7,12 @@
 | 名前            | リポジトリ                                | 備考 |
 | --------------- | ----------------------------------------- | ----- |
 | Solid           | https://github.com/ryansolid/solid        | |
-| Sinuous         | https://github.com/luwes/sinuous          | |
+| Preact          | https://github.com/preactjs/preact        | |
+| lit-html        | ~~https://github.com/polymer/lit-html~~<br>https://github.com/lit/lit/tree/main/packages/lit-html | |
+| ~~jsx-lite~~<br>Mitosis | ~~https://github.com/BuilderIO/jsx-lite~~<br>https://github.com/BuilderIO/mitosis | |
+| ~~Sinuous~~     | https://github.com/luwes/sinuous          | |
 | ~~Vidact~~      | https://github.com/mohebifar/vidact       | |
 | ~~Brahmos~~     | https://github.com/brahmosjs/brahmos      | |
-| jsx-lite        | https://github.com/BuilderIO/jsx-lite     | |
-| lit-html        | https://github.com/polymer/lit-html       | |
-| Preact          | https://github.com/preactjs/preact        | |
 | ~~incremental-dom~~ | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
 | Voby            | https://github.com/vobyjs/voby            | |
 
@@ -193,11 +193,11 @@
 
 | 名前         | リポジトリ                                       | 備考 |
 | ------------- | ------------------------------------------- | ---- |
-| ~~jExcel~~<br>Jspreadsheet | ~~https://github.com/paulhodel/jexcel~~<br>https://github.com/jspreadsheet/ce | |
-| Importabular  | https://github.com/renanlecaro/importabular | |
-| Luckysheet    | https://github.com/mengshukeji/Luckysheet   | Canvas, jQuery UI, font-awesome, echarts |
-| FortuneSheet  | https://github.com/ruilisi/fortune-sheet    | TypeScript で書き直された Luckysheet <br>[（Luckysheet 本体も TypeScript で書き直し中）](https://github.com/mengshukeji/Luckysheet/issues/799) |
-| x-spreadsheet | https://github.com/myliang/x-spreadsheet    | Canvas |
+| Importabular  | https://github.com/renanlecaro/importabular | 編集可能な文字列テーブル（表計算というよりフォームの代替） |
+| Luckysheet    | https://github.com/mengshukeji/Luckysheet   | 非常に高機能な表計算ライブラリ（Canvas, jQuery UI, font-awesome, echarts）／中国語でハードコードされたメッセージが出て困る |
+| FortuneSheet  | https://github.com/ruilisi/fortune-sheet    | TypeScript で書き直された Luckysheet／まだ機能不足、今後に期待[（元祖 Luckysheet も TypeScript で書き直し中らしいが進捗が見えず）](https://github.com/mengshukeji/Luckysheet/issues/799) |
+| x-spreadsheet | https://github.com/myliang/x-spreadsheet    | Canvas ベースの表計算ライブラリ／Luckysheet の方が高機能なので出番はなさそうか |
+| ~~jExcel~~<br>Jspreadsheet | ~~https://github.com/paulhodel/jexcel~~<br>https://github.com/jspreadsheet/ce | Table ベースの表計算ライブラリ（Canvas と違って CSS が効くので扱いやすい場合がある）／有償版あり／Luckysheet の方が高機能なので出番はなさそうか |
 | SheetJS       | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
 
 ### 仮想スクロール
@@ -312,6 +312,7 @@
 | 名前 | リポジトリ | 備考 |
 | ---- | ---- | ---- |
 | &lt;model-viewer&gt; | https://github.com/google/model-viewer | glTF & GLB viewer |
+| https://github.com/zalo/CascadeStudio | |
 
 ## 型チェック
 
@@ -337,6 +338,8 @@
 | GPU.js         | https://github.com/gpujs/gpu.js               | |
 | Parallel.js    | https://github.com/parallel-js/parallel.js    | |
 | lz-string      | https://github.com/pieroxy/lz-string          | 高速なテキスト圧縮 `compressToUTF16()`<br> https://pieroxy.net/blog/pages/lz-string/demo.html |
+| LZ-UTF8        | https://github.com/rotemdan/lzutf8.js         | 高速なテキスト圧縮 |
+| opentype.js    | https://github.com/opentypejs/opentype.js     | ttf, otf, woff ファイル読み書き |
 | Moji.js        | https://github.com/niwaringo/moji             | 半角全角変換ライブラリ |
 | YubinBango     | https://github.com/yubinbango/yubinbango-data | 郵便番号 → 住所データ |
 | ScrollBooster  | https://github.com/ilyashubin/scrollbooster   | ドラッグで慣性スクロール |
