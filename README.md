@@ -248,12 +248,6 @@
 | MUI             | https://github.com/muicss/mui          |        |
 | ~~Materialize~~ | https://github.com/Dogfalo/materialize | 重い。 |
 
-## アイコンセット検索
-
-| 名前                  | ホームページ                              | 備考 |
-| --------------------- | -------------------------------------- | ---- |
-| Iconer                | https://iconer.app/                    |      |
-
 ## アイコンセット
 
 | 名前                  | ホームページ                              | 備考 |
@@ -289,6 +283,29 @@
 | 名前         | ホームページ             | 備考 |
 | ------------ | ------------------------ | ---- |
 | Simple Icons | https://simpleicons.org/ |      |
+
+### アイコンセット検索
+
+| 名前                  | ホームページ                              | 備考 |
+| --------------------- | -------------------------------------- | ---- |
+| Iconer                | https://iconer.app/                    |      |
+
+## イラスト
+
+| 名前 | ホームページ | 利用規約 | 備考 |
+| ---- | ---- | ---- | ---- |
+| いらすとや | https://www.irasutoya.com/ | https://www.irasutoya.com/p/terms.html | |
+| イラストセンター | https://illustcenter.com/ | https://illustcenter.com/terms/ | |
+| shigureni | https://www.shigureni.com/ | https://www.shigureni.com/terms-of-use | |
+| 商用利用無料、国内のフリーイラスト素材の総まとめ | https://coliss.com/articles/freebies/freebies-illustrations.html | | |
+
+## 写真素材
+
+| 名前 | ホームページ | 利用規約 | 備考 |
+| ---- | ---- | ---- | ---- |
+| ぱくたそ | https://www.pakutaso.com/ | https://www.pakutaso.com/userpolicy.html | |
+| フリービーAC | https://www.freebie-ac.jp/ | https://www.freebie-ac.jp/terms.php | 要ユーザー登録 |
+| スキマナース | https://nurse-web.jp/photo/ | | |
 
 ## プレゼンテーション
 
