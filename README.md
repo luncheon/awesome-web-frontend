@@ -332,11 +332,13 @@
 | &lt;model-viewer&gt; | https://github.com/google/model-viewer | glTF & GLB viewer |
 | https://github.com/zalo/CascadeStudio | |
 
-## 型チェック
+## Type / Schema Validation
 
-| 名前       | リポジトリ                                    | 備考 |
-| ---------- | --------------------------------------------- | ---- |
+| 名前 | リポジトリ | 備考 |
+| ---------------------------------- | -------------------------------------------------- | ---- |
+| Zod                                | https://github.com/colinhacks/zod                  | TypeScript DSL -> TypeScript Types, JSON Schema |
 | TypeBox                            | https://github.com/sinclairzx81/typebox            | TypeScript DSL -> TypeScript Types, JSON Schema |
+| TypeScript-JSON                    | https://github.com/samchon/typescript-json         | TypeScript Types -> Runtime Type Validator, JSON Schema |
 | ts-runtime                         | https://github.com/fabiandev/ts-runtime            | TypeScript Types -> Runtime Type Validator |
 | typescript-json-schema             | https://github.com/YousefED/typescript-json-schema | TypeScript Types -> JSON Schema |
 | Ajv: Another JSON Schema Validator | https://github.com/ajv-validator/ajv               | JSON Schema Validator |
