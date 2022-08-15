@@ -249,6 +249,14 @@
 | MUI             | https://github.com/muicss/mui          |        |
 | ~~Materialize~~ | https://github.com/Dogfalo/materialize | 重い。 |
 
+### テーマ
+
+| 名前        | ホームページ                             | 備考   |
+| ----------- | -------------------------------------- | ------ |
+| 98.css     | https://jdan.github.io/98.css/          | A CSS library for building interfaces that look like Windows 98 |
+| XP.css     | https://botoxparty.github.io/XP.css/    | A CSS library for building interfaces that look like old UIs |
+| System.css | https://sakofchit.github.io/system.css/ | A CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991 |
+
 ## アイコンセット
 
 | 名前                  | ホームページ                              | 備考 |
@@ -331,7 +339,7 @@
 | 名前 | リポジトリ | 備考 |
 | ---- | ---- | ---- |
 | &lt;model-viewer&gt; | https://github.com/google/model-viewer | glTF & GLB viewer |
-| https://github.com/zalo/CascadeStudio | |
+| CascadeStudio | https://github.com/zalo/CascadeStudio | |
 
 ## Type / Schema Validation
 
