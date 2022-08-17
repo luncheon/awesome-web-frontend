@@ -344,13 +344,18 @@
 ## Type / Schema Validation
 
 | 名前 | リポジトリ | 備考 |
-| ---------------------------------- | -------------------------------------------------- | ---- |
-| Zod                                | https://github.com/colinhacks/zod                  | TypeScript DSL -> TypeScript Types, JSON Schema |
-| TypeBox                            | https://github.com/sinclairzx81/typebox            | TypeScript DSL -> TypeScript Types, JSON Schema |
-| TypeScript-JSON                    | https://github.com/samchon/typescript-json         | TypeScript Types -> Runtime Type Validator, JSON Schema |
-| ts-runtime                         | https://github.com/fabiandev/ts-runtime            | TypeScript Types -> Runtime Type Validator |
-| typescript-json-schema             | https://github.com/YousefED/typescript-json-schema | TypeScript Types -> JSON Schema |
-| Ajv: Another JSON Schema Validator | https://github.com/ajv-validator/ajv               | JSON Schema Validator |
+| ------------------------- | ------------------------------------------------------ | ---- |
+| Zod                       | https://github.com/colinhacks/zod                      | TypeScript DSL -> TypeScript Types, Runtime Validator, JSON Schema |
+| Runtypes                  | https://github.com/pelotom/runtypes                    | TypeScript DSL -> TypeScript Types, Runtime Validator (, JSON Schema) |
+| io-ts                     | https://github.com/gcanti/io-ts                        | TypeScript DSL -> TypeScript Types, Runtime Validator |
+| Superstruct               | https://github.com/ianstormtaylor/superstruct          | TypeScript DSL -> TypeScript Types, Runtime Validator |
+| TypeBox                   | https://github.com/sinclairzx81/typebox                | TypeScript DSL -> TypeScript Types, JSON Schema |
+| TypeScript-JSON           | https://github.com/samchon/typescript-json             | TypeScript Types -> Runtime Type Validator, JSON Schema (TypeScript Plugin) |
+| typescript-is             | https://github.com/woutervh-/typescript-is             | TypeScript Types -> Runtime Type Validator (TypeScript Plugin) |
+| ts-runtime                | https://github.com/fabiandev/ts-runtime                | TypeScript Types -> Runtime Type Validator (API/CLI でコード変換) |
+| type-predicates-generator | https://github.com/d-kimuson/type-predicates-generator | TypeScript Types -> Runtime Type Validator (CLI でコード生成) |
+| typescript-json-schema    | https://github.com/YousefED/typescript-json-schema     | TypeScript Types -> JSON Schema (API/CLI) |
+| Ajv                       | https://github.com/ajv-validator/ajv                   | JSON Schema Validator |
 
 ## パーサージェネレーター
 
