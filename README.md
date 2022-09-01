@@ -287,6 +287,7 @@
 | Boxicons              | https://boxicons.com/                  |      |
 | Doodle Icons          | https://khushmeen.com/icons.html       |      |
 | Humbleicons           | https://humbleicons.com/               |      |
+| iconir                | https://iconoir.com/                   |      |
 
 ### ブランドアイコンセット
 
