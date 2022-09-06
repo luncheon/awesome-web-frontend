@@ -192,14 +192,15 @@
 
 ### スプレッドシート
 
-| 名前         | リポジトリ                                       | 備考 |
-| ------------- | ------------------------------------------- | ---- |
-| Importabular  | https://github.com/renanlecaro/importabular | 編集可能な文字列テーブル（表計算というよりフォームの代替） |
-| Luckysheet    | https://github.com/mengshukeji/Luckysheet   | 非常に高機能な表計算ライブラリ（Canvas, jQuery UI, font-awesome, echarts）／中国語でハードコードされたメッセージが出て困る |
-| FortuneSheet  | https://github.com/ruilisi/fortune-sheet    | TypeScript で書き直された Luckysheet／まだ機能不足、今後に期待[（元祖 Luckysheet も TypeScript で書き直し中らしいが進捗が見えず）](https://github.com/mengshukeji/Luckysheet/issues/799) |
-| x-spreadsheet | https://github.com/myliang/x-spreadsheet    | Canvas ベースの表計算ライブラリ／Luckysheet の方が高機能なので出番はなさそうか |
-| ~~jExcel~~<br>Jspreadsheet | ~~https://github.com/paulhodel/jexcel~~<br>https://github.com/jspreadsheet/ce | Table ベースの表計算ライブラリ（Canvas と違って CSS が効くので扱いやすい場合がある）／有償版あり／Luckysheet の方が高機能なので出番はなさそうか |
-| SheetJS       | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
+| 名前            | リポジトリ                                    | 備考 |
+| ---------------- | ------------------------------------------- | ---- |
+| Importabular     | https://github.com/renanlecaro/importabular | 編集可能な文字列テーブル（表計算というよりフォームの代替） |
+| Luckysheet       | https://github.com/mengshukeji/Luckysheet   | 非常に高機能な表計算ライブラリ（Canvas, jQuery UI, font-awesome, echarts）。[（TypeScript で書き直し中らしいが進捗が見えず）](https://github.com/mengshukeji/Luckysheet/issues/799) |
+| FortuneSheet     | https://github.com/ruilisi/fortune-sheet    | TypeScript で書き直された Luckysheet。まだ機能不足、今後に期待 |
+| x-spreadsheet    | https://github.com/myliang/x-spreadsheet    | Canvas ベースの表計算ライブラリ。 Luckysheet の方が高機能なので出番はなさそうか |
+| ~~jExcel~~<br>Jspreadsheet | ~~https://github.com/paulhodel/jexcel~~<br>https://github.com/jspreadsheet/ce | Table ベースの表計算ライブラリ（Canvas と違って CSS が効くので扱いやすい場合がある）。有償版あり。 Luckysheet の方が高機能なので出番はなさそうか |
+| ~~Handsontable~~ | https://github.com/handsontable/handsontable/tree/develop/handsontable | [商用版は非常に高価](https://handsontable.com/pricing)。数式評価が [Hyperformula](https://github.com/handsontable/hyperformula) として切り出されているがこちらの商用利用はサポート問い合わせ。 |
+| SheetJS          | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
 
 ### 仮想スクロール
 
