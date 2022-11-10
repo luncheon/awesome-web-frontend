@@ -200,6 +200,7 @@
 | x-spreadsheet    | https://github.com/myliang/x-spreadsheet    | Canvas ベースの表計算ライブラリ。 Luckysheet の方が高機能なので出番はなさそうか |
 | ~~jExcel~~<br>Jspreadsheet | ~~https://github.com/paulhodel/jexcel~~<br>https://github.com/jspreadsheet/ce | Table ベースの表計算ライブラリ（Canvas と違って CSS が効くので扱いやすい場合がある）。有償版あり。 Luckysheet の方が高機能なので出番はなさそうか |
 | ~~Handsontable~~ | https://github.com/handsontable/handsontable/tree/develop/handsontable | [商用版は非常に高価](https://handsontable.com/pricing)。数式評価が [Hyperformula](https://github.com/handsontable/hyperformula) として切り出されているがこちらの商用利用はサポート問い合わせ。 |
+| ~~Rows n' Columns~~ | https://github.com/rowsncolumns/grid     | [商用は高価](https://rowsncolumns.app/pricing) |
 | SheetJS          | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
 | ExcelJS          | https://github.com/exceljs/exceljs          | xlsx ファイルの読み書きと操作 |
 
