@@ -203,6 +203,7 @@
 | ~~Rows n' Columns~~ | https://github.com/rowsncolumns/grid     | [商用は高価](https://rowsncolumns.app/pricing) |
 | SheetJS          | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
 | ExcelJS          | https://github.com/exceljs/exceljs          | xlsx ファイルの読み書きと操作 |
+| xlsx-populate    | https://github.com/dtjohnson/xlsx-populate  | xlsx ファイルの読み書きと操作 |
 
 ### 仮想スクロール
 
@@ -332,18 +333,20 @@
 
 | 名前 | リポジトリ | 備考 |
 | ---- | ---- | ---- |
-| docx    | https://github.com/dolanmiu/docx   | .docx ファイル作成 |
-| PDF.js  | https://github.com/mozilla/pdf.js  | PDF を Canvas に描画 |
-| PDF-LIB | https://github.com/Hopding/pdf-lib | PDF ファイル作成 |
-| PDFKit  | https://github.com/foliojs/pdfkit  | PDF ファイル作成 |
-| jsPDF   | https://github.com/parallax/jsPDF  | PDF ファイル作成 |
+| docx    | https://github.com/dolanmiu/docx            | .docx ファイル作成 |
+| docxjs  | https://github.com/VolodymyrBaydalka/docxjs | .docx 描画 |
+| PDF.js  | https://github.com/mozilla/pdf.js           | PDF を Canvas に描画 |
+| PDF-LIB | https://github.com/Hopding/pdf-lib          | PDF ファイル作成 |
+| PDFKit  | https://github.com/foliojs/pdfkit           | PDF ファイル作成 |
+| jsPDF   | https://github.com/parallax/jsPDF           | PDF ファイル作成 |
 
 ## 3D Model
 
 | 名前 | リポジトリ | 備考 |
 | ---- | ---- | ---- |
-| &lt;model-viewer&gt; | https://github.com/google/model-viewer | glTF & GLB viewer |
-| CascadeStudio | https://github.com/zalo/CascadeStudio | |
+| &lt;model-viewer&gt; | https://github.com/google/model-viewer    | glTF & GLB viewer |
+| CascadeStudio        | https://github.com/zalo/CascadeStudio     | |
+| Online 3D Viewer     | https://github.com/kovacsv/Online3DViewer | |
 
 ## Type / Schema Validation
 
