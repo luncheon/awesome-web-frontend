@@ -292,6 +292,7 @@
 | Doodle Icons          | https://khushmeen.com/icons.html       |      |
 | Humbleicons           | https://humbleicons.com/               |      |
 | iconir                | https://iconoir.com/                   |      |
+| Sargam Icons          | https://sargamicons.com/               |      |
 
 ### ブランドアイコンセット
 
