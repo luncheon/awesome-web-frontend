@@ -15,6 +15,7 @@
 | ~~Brahmos~~     | https://github.com/brahmosjs/brahmos      | |
 | ~~incremental-dom~~ | https://github.com/google/incremental-dom | [babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) |
 | Voby            | https://github.com/vobyjs/voby            | |
+| hybrids         | https://github.com/hybridsjs/hybrids      | |
 
 ## 状態管理
 
