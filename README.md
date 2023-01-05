@@ -334,12 +334,13 @@
 
 | 名前 | リポジトリ | 備考 |
 | ---- | ---- | ---- |
-| docx    | https://github.com/dolanmiu/docx            | .docx ファイル作成 |
-| docxjs  | https://github.com/VolodymyrBaydalka/docxjs | .docx 描画 |
-| PDF.js  | https://github.com/mozilla/pdf.js           | PDF を Canvas に描画 |
-| PDF-LIB | https://github.com/Hopding/pdf-lib          | PDF ファイル作成 |
-| PDFKit  | https://github.com/foliojs/pdfkit           | PDF ファイル作成 |
-| jsPDF   | https://github.com/parallax/jsPDF           | PDF ファイル作成 |
+| docx          | https://github.com/dolanmiu/docx               | .docx ファイル作成 |
+| docxjs        | https://github.com/VolodymyrBaydalka/docxjs    | .docx 描画 |
+| PDF.js        | https://github.com/mozilla/pdf.js              | PDF を Canvas に描画 |
+| PDF-LIB       | https://github.com/Hopding/pdf-lib             | PDF ファイル作成 |
+| PDFKit        | https://github.com/foliojs/pdfkit              | PDF ファイル作成 |
+| jsPDF         | https://github.com/parallax/jsPDF              | PDF ファイル作成 |
+| open-pdf-sign | https://github.com/open-pdf-sign/open-pdf-sign | PDF 署名 |
 
 ## 3D Model
 
@@ -377,6 +378,7 @@
 
 | 名前   | リポジトリ                      | 備考 |
 | -------------- | --------------------------------------------- | ---- |
+| Magic bytes    | https://github.com/LarsKoelpin/magic-bytes    | ファイルの内容からファイルの種類を判定 |
 | GPU.js         | https://github.com/gpujs/gpu.js               | |
 | Parallel.js    | https://github.com/parallel-js/parallel.js    | |
 | lz-string      | https://github.com/pieroxy/lz-string          | 高速なテキスト圧縮 `compressToUTF16()`<br> https://pieroxy.net/blog/pages/lz-string/demo.html |
