@@ -100,6 +100,7 @@
 | html-native-modal | https://github.com/luncheon/html-native-modal   | `<dialog>` は `z-index` に関係なく他の absolute / fixed / sticky 要素より手前に表示されるので、ツールチップやトーストなどポップアップと相性が悪い場合がある。 |
 | Modal Vanilla     | https://github.com/KaneCohen/modal-vanilla      |      |
 | Micromodal.js     | https://github.com/Ghosh/micromodal             |      |
+| HystModal         | https://github.com/AddMoreScripts/hystModal     |      |
 | ~~tingle.js~~     | https://github.com/robinparisi/tingle           | 背景が全く見えなくなる。<br>閉じるときアニメーションがない。   |
 | ~~A11y Dialog~~   | https://github.com/edenspiekermann/a11y-dialog/ | マークアップが非常に煩雑。<br>閉じるときアニメーションがない。 |
 
