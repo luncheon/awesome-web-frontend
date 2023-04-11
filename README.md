@@ -378,6 +378,14 @@
 | Ohm     | https://github.com/harc/ohm     |  |
 | nearley | https://github.com/kach/nearley |  |
 
+## TypeScript
+
+| 名前 | リポジトリ | 備考 |
+| ---- | ---- | ---- |
+| ts-essentials | https://github.com/ts-essentials/ts-essentials | |
+| type-fest     | https://github.com/sindresorhus/type-fest      | |
+| ts-toolbelt   | https://github.com/millsp/ts-toolbelt          | |
+
 ## その他
 
 | 名前   | リポジトリ                      | 備考 |
