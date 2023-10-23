@@ -368,6 +368,7 @@
 | typescript-is             | https://github.com/woutervh-/typescript-is             | TypeScript Types -> Runtime Type Validator (TypeScript Plugin) |
 | ts-runtime                | https://github.com/fabiandev/ts-runtime                | TypeScript Types -> Runtime Type Validator (API/CLI でコード変換) |
 | type-predicates-generator | https://github.com/d-kimuson/type-predicates-generator | TypeScript Types -> Runtime Type Validator (CLI でコード生成) |
+| ts-auto-guard             | https://github.com/rhys-vdw/ts-auto-guard              | TypeScript Types -> Runtime Type Validator (CLI でコード生成) |
 | typescript-json-schema    | https://github.com/YousefED/typescript-json-schema     | TypeScript Types -> JSON Schema (API/CLI) |
 | Ajv                       | https://github.com/ajv-validator/ajv                   | JSON Schema Validator |
 
