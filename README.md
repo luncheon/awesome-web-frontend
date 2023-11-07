@@ -269,6 +269,7 @@
 
 | 名前                  | ホームページ                              | 備考 |
 | --------------------- | -------------------------------------- | ---- |
+| Blendicons            | https://blendicons.com/free-icons      |      |
 | Iconduck              | https://iconduck.com/                  |      |
 | Fluent Icons          | https://fluenticons.co/                |      |
 | Material Design Icons | https://materialdesignicons.com/       |      |
