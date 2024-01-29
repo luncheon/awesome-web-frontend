@@ -19,10 +19,11 @@
 
 ## 状態管理
 
-| 名前  | リポジトリ                       | 備考 |
-| ----- | -------------------------------- | ---- |
-| MobX  | https://github.com/mobxjs/mobx   |      |
-| Immer | https://github.com/immerjs/immer |      |
+| 名前 | リポジトリ | 備考 |
+| -------- | ----------------------------------- | ---- |
+| MobX     | https://github.com/mobxjs/mobx      |      |
+| Immer    | https://github.com/immerjs/immer    |      |
+| Mutative | https://github.com/unadlib/mutative |      |
 
 ## メモ化
 
