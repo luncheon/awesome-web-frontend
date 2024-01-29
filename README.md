@@ -23,7 +23,7 @@
 | -------- | ----------------------------------- | ---- |
 | MobX     | https://github.com/mobxjs/mobx      |      |
 | Immer    | https://github.com/immerjs/immer    |      |
-| Mutative | https://github.com/unadlib/mutative |      |
+| Mutative | https://github.com/unadlib/mutative | faster Immer |
 
 ## メモ化
 
