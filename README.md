@@ -280,6 +280,7 @@
 | Glyphs                | https://glyphs.fyi/dir                 |      |
 | Iconicons             | https://ionicons.com/                  |      |
 | Feather               | https://feathericons.com/              |      |
+| Lucide                | https://lucide.dev/icons/              | Feather Icons のフォーク |
 | Emblemicons           | https://emblemicons.in/#icons          |      |
 | Eva Icons             | https://akveo.github.io/eva-icons      |      |
 | Remix Icon            | https://remixicon.com/                 |      |
