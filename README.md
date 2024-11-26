@@ -302,6 +302,7 @@
 | Humbleicons           | https://humbleicons.com/               |      |
 | iconir                | https://iconoir.com/                   |      |
 | Sargam Icons          | https://sargamicons.com/               |      |
+| pqoqubbw/icons        | https://icons.pqoqubbw.dev/            | アニメーション付きアイコン |
 
 ### ブランドアイコンセット
 
