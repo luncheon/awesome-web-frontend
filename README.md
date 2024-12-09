@@ -281,7 +281,7 @@
 | Iconicons             | https://ionicons.com/                  |      |
 | Feather               | https://feathericons.com/              |      |
 | Lucide                | https://lucide.dev/icons/              | Feather Icons のフォーク |
-| Emblemicons           | https://emblemicons.in/#icons          |      |
+| ~~Emblemicons~~           | ~~https://emblemicons.in/#icons~~          | ドメイン手放したっぽい |
 | Eva Icons             | https://akveo.github.io/eva-icons      |      |
 | Remix Icon            | https://remixicon.com/                 |      |
 | Ikonate               | https://ikonate.com/                   |      |
