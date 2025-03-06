@@ -304,6 +304,12 @@
 | Sargam Icons          | https://sargamicons.com/               |      |
 | pqoqubbw/icons        | https://icons.pqoqubbw.dev/            | アニメーション付きアイコン |
 
+### ローディングアイコン
+
+| 名前 | ホームページ | 備考 |
+| ---- | ---- | ---- |
+| Open Source SVG Loading Icons | https://magecdn.com/tools/svg-loaders |      |
+
 ### ブランドアイコンセット
 
 | 名前         | ホームページ             | 備考 |
