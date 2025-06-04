@@ -277,6 +277,7 @@
 | Material Design Icons | https://materialdesignicons.com/       |      |
 | Phosphor              | https://phosphoricons.com/             |      |
 | MingCute Icon         | https://www.mingcute.com/              |      |
+| lineicons             | https://lineicons.com/                 |      |
 | Glyphs                | https://glyphs.fyi/dir                 |      |
 | Iconicons             | https://ionicons.com/                  |      |
 | Feather               | https://feathericons.com/              |      |
