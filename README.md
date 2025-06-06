@@ -207,7 +207,8 @@
 | ~~Handsontable~~ | https://github.com/handsontable/handsontable/tree/develop/handsontable | [商用版は非常に高価](https://handsontable.com/pricing)。数式評価が [Hyperformula](https://github.com/handsontable/hyperformula) として切り出されているがこちらの商用利用はサポート問い合わせ。 |
 | ~~Rows n' Columns~~ | https://github.com/rowsncolumns/grid     | [商用は高価](https://rowsncolumns.app/pricing) |
 | RevoGrid         | https://github.com/revolist/revogrid        | MIT ライセンスのスプレッドシートコンポーネント。 |
-| SheetJS          | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
+| SheetJS (xlsx)   | https://github.com/SheetJS/sheetjs          | 多様なスプレッドシートファイル形式の読み書き |
+| xlsx-js-style    | https://github.com/gitbrent/xlsx-js-style   | SheetJS (xlsx) にスタイル設定機能を追加したフォーク。 SheetJS (xlsx) は PRO 版じゃないとスタイル設定できない。 |
 | ExcelJS          | https://github.com/exceljs/exceljs          | xlsx ファイルの読み書きと操作 |
 | xlsx-populate    | https://github.com/dtjohnson/xlsx-populate  | xlsx ファイルの読み書きと操作 |
 
